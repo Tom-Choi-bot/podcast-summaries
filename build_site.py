@@ -107,19 +107,20 @@ def page(title: str, body: str, description: str = "Korean podcast summaries") -
   <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">
   <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>
   <link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap\" rel=\"stylesheet\">
-  <link rel=\"stylesheet\" href=\"/assets/style.css\" />
+  <base href=\"/podcast-summaries/\" />
+  <link rel=\"stylesheet\" href=\"assets/style.css\" />
 </head>
 <body>
   <div class=\"bg-orb orb-a\"></div>
   <div class=\"bg-orb orb-b\"></div>
   <header class=\"site-header\">
-    <a class=\"brand\" href=\"/\" aria-label=\"Podcast Briefs home\">
+    <a class=\"brand\" href=\"\" aria-label=\"Podcast Briefs home\">
       <span class=\"brand-mark\">⌁</span>
       <span>Podcast Briefs</span>
     </a>
     <nav>
-      <a href=\"/\">Home</a>
-      <a href=\"/archive/\">Archive</a>
+      <a href=\"\">Home</a>
+      <a href=\"archive/\">Archive</a>
       <a href=\"https://github.com/Tom-Choi-bot/podcast-summaries\">GitHub</a>
     </nav>
   </header>
@@ -134,7 +135,7 @@ def page(title: str, body: str, description: str = "Korean podcast summaries") -
 
 
 def rel_href(path: Path) -> str:
-    return "/" + path.as_posix()
+    return path.as_posix()
 
 
 def collect() -> list[Episode]:
@@ -173,7 +174,7 @@ def render_summary(ep: Episode) -> None:
     content = markdown.markdown(md_text, extensions=["extra", "toc", "tables", "sane_lists"])
     body = f"""
   <main class=\"container article-shell\">
-    <div class=\"crumbs\"><a href=\"/\">Home</a><span>/</span><a href=\"/summaries/{ep.year}/{ep.month}/{ep.day}/\">{ep.date}</a><span>/</span><span>{html.escape(ep.show_name)}</span></div>
+    <div class=\"crumbs\"><a href=\"\">Home</a><span>/</span><a href=\"summaries/{ep.year}/{ep.month}/{ep.day}/\">{ep.date}</a><span>/</span><span>{html.escape(ep.show_name)}</span></div>
     <article class=\"article-card\">
       <div class=\"article-meta\">
         <span class=\"pill\">{html.escape(ep.show_name)}</span>
@@ -183,7 +184,7 @@ def render_summary(ep: Episode) -> None:
       <div class=\"markdown-body\">{content}</div>
       <div class=\"article-actions\">
         <a class=\"button ghost\" href=\"{rel_href(ep.md_rel)}\">Markdown 원문</a>
-        <a class=\"button ghost\" href=\"/summaries/{ep.year}/{ep.month}/{ep.day}/\">이 날짜 전체 보기</a>
+        <a class=\"button ghost\" href=\"summaries/{ep.year}/{ep.month}/{ep.day}/\">이 날짜 전체 보기</a>
       </div>
     </article>
   </main>
@@ -215,7 +216,7 @@ def render_date(date: str, episodes: list[Episode]) -> None:
       <div class=\"eyebrow\">Daily Brief</div>
       <h1>{date} 요약</h1>
       <p>{len(episodes)}개 에피소드의 전사 기반 경제·시장 브리핑입니다.</p>
-      <a class=\"button primary\" href=\"/\">전체 인덱스</a>
+      <a class=\"button primary\" href=\"\">전체 인덱스</a>
     </section>
     {''.join(sections)}
   </main>
@@ -235,7 +236,7 @@ def render_archive(episodes: list[Episode]) -> None:
     for d in dates:
         count = sum(1 for e in episodes if e.date == d)
         y, m, day = d.split("-")
-        items.append(f"<a class=\"archive-row\" href=\"/summaries/{y}/{m}/{day}/\"><span>{d}</span><strong>{count} episodes</strong></a>")
+        items.append(f"<a class=\"archive-row\" href=\"summaries/{y}/{m}/{day}/\"><span>{d}</span><strong>{count} episodes</strong></a>")
     body = f"""
   <main class=\"container\">
     <section class=\"date-hero\">
@@ -256,7 +257,7 @@ def render_home(episodes: list[Episode]) -> None:
     latest = [e for e in episodes if e.date == latest_date]
     dates = sorted({e.date for e in episodes}, reverse=True)
     date_links = "".join(
-        f'<a class="date-chip" href="/summaries/{d[:4]}/{d[5:7]}/{d[8:10]}/">{d}<span>{sum(1 for e in episodes if e.date == d)}</span></a>'
+        f'<a class="date-chip" href="summaries/{d[:4]}/{d[5:7]}/{d[8:10]}/">{d}<span>{sum(1 for e in episodes if e.date == d)}</span></a>'
         for d in dates[:12]
     )
     shows = sorted({(e.show_slug, e.show_name) for e in episodes}, key=lambda x: x[1])
@@ -268,8 +269,8 @@ def render_home(episodes: list[Episode]) -> None:
       <h1>하루치 경제 팟캐스트를 한눈에.</h1>
       <p>전사 기반 요약을 날짜별로 정리합니다. Slack 첨부 대신 GitHub Pages에서 빠르게 탐색하고 검색하세요.</p>
       <div class=\"hero-actions\">
-        <a class=\"button primary\" href=\"/summaries/{latest_date[:4]}/{latest_date[5:7]}/{latest_date[8:10]}/\">오늘자 보기</a>
-        <a class=\"button ghost\" href=\"/archive/\">아카이브</a>
+        <a class=\"button primary\" href=\"summaries/{latest_date[:4]}/{latest_date[5:7]}/{latest_date[8:10]}/\">오늘자 보기</a>
+        <a class=\"button ghost\" href=\"archive/\">아카이브</a>
       </div>
       <div class=\"stats\">
         <div><strong>{len(episodes)}</strong><span>summaries</span></div>
@@ -282,15 +283,15 @@ def render_home(episodes: list[Episode]) -> None:
       <div class=\"filters\"><button data-filter=\"all\" class=\"active\">전체</button>{show_filters}</div>
     </section>
     <section class=\"container\">
-      <div class=\"section-heading\"><div><span class=\"eyebrow\">Latest</span><h2>{latest_date} 요약</h2></div><a href=\"/summaries/{latest_date[:4]}/{latest_date[5:7]}/{latest_date[8:10]}/\">날짜 페이지</a></div>
+      <div class=\"section-heading\"><div><span class=\"eyebrow\">Latest</span><h2>{latest_date} 요약</h2></div><a href=\"summaries/{latest_date[:4]}/{latest_date[5:7]}/{latest_date[8:10]}/\">날짜 페이지</a></div>
       <div id=\"episodes\" class=\"episode-grid\">{''.join(card(e) for e in latest)}</div>
     </section>
     <section class=\"container dates-strip\">
-      <div class=\"section-heading\"><div><span class=\"eyebrow\">Dates</span><h2>최근 날짜</h2></div><a href=\"/archive/\">전체 보기</a></div>
+      <div class=\"section-heading\"><div><span class=\"eyebrow\">Dates</span><h2>최근 날짜</h2></div><a href=\"archive/\">전체 보기</a></div>
       <div class=\"date-chip-grid\">{date_links}</div>
     </section>
   </main>
-  <script src=\"/assets/app.js\"></script>
+  <script src=\"assets/app.js\"></script>
 """
     (SITE_ROOT / "index.html").write_text(page("Podcast Briefs", body), encoding="utf-8")
 

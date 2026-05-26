@@ -17,4 +17,4 @@ summaries/YYYY/MM/DD/<show-slug>/*.html
 summaries/YYYY/MM/DD/<show-slug>/*.md
 ```
 
-Generated at 2026-05-26T23:38:54+09:00.
+Generated at 2026-05-26T23:45:22+09:00.
