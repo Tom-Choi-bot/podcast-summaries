@@ -379,7 +379,21 @@ def main() -> None:
     render_archive(episodes)
     render_home(episodes)
     write_readme(episodes)
-    (SITE_ROOT / "metadata.json").write_text(json.dumps([e.__dict__ | {"source_path": str(e.source_path), "md_rel": e.md_rel.as_posix(), "html_rel": e.html_rel.as_posix()} for e in episodes], ensure_ascii=False, indent=2), encoding="utf-8")
+    public_metadata = []
+    for e in episodes:
+        public_metadata.append({
+            "date": e.date,
+            "show_slug": e.show_slug,
+            "show_name": e.show_name,
+            "title": e.title,
+            "md_rel": e.md_rel.as_posix(),
+            "html_rel": e.html_rel.as_posix(),
+            "excerpt": e.excerpt,
+            "model": e.model,
+            "duration": e.duration,
+            "published": e.published,
+        })
+    (SITE_ROOT / "metadata.json").write_text(json.dumps(public_metadata, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Built {len(episodes)} summaries across {len(set(e.date for e in episodes))} dates")
 
 if __name__ == "__main__":
