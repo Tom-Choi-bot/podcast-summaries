@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-05-28",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260528목 [IT 언박싱 ] w 강정수 - \"IPO 임박\" 스페이스X, 테슬라와 합병하나?",
+    "md_rel": "summaries/2026/05/28/park-money-lab/2-260528목-IT-언박싱-w-강정수-IPO-임박-스페이스X-테슬라와-합병하나.md",
+    "html_rel": "summaries/2026/05/28/park-money-lab/2-260528목-IT-언박싱-w-강정수-IPO-임박-스페이스X-테슬라와-합병하나.html",
+    "excerpt": "2. 260528목 IT 언박싱 w 강정수 \"IPO 임박\" 스페이스X, 테슬라와 합병하나? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 강정수 박사는 스페이스X IPO를 단순 우주·로켓 기업 상장이 아니라 AI 인프라 기업의 등장으로 해석했습니다. 2. 핵심 논리는 AI 시대의…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-05-28",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "5/27(수) - [핫이슈, 더 깊게] 삼성전자, ‘최대 6억 성과급'… 주주의 몫은 얼마?",
