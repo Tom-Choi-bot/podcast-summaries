@@ -77,6 +77,7 @@ def extract_model(text: str) -> str | None:
 
 
 def sanitize_markdown(text: str) -> str:
+    text = re.sub(r"(?ms)^## 원본 정보\s*\n.*?(?=^## |\Z)", "", text)
     lines: list[str] = []
     skip_labels = ("오디오 파일", "전사 TXT", "전사 JSON")
     for line in text.splitlines():
@@ -84,7 +85,7 @@ def sanitize_markdown(text: str) -> str:
             continue
         line = LOCAL_PATH_RE.sub("내부 보관", line)
         lines.append(line.rstrip())
-    cleaned = "\n".join(lines).strip() + "\n"
+    cleaned = re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip() + "\n"
     cleaned += "\n---\n\n> 이 페이지는 자동 전사 기반 요약을 GitHub Pages용으로 정리한 공개본입니다. 로컬 오디오/전사 파일 경로는 공개본에서 제거했습니다.\n"
     return cleaned
 
