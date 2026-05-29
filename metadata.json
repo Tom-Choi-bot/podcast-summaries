@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-05-29",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "5/28(목) - [핫이슈, 더 깊게] 반도체 투톱 쏠림, 시장 붕괴 조짐일까?",
+    "md_rel": "summaries/2026/05/29/kbs-economy-show/5-28-목-핫이슈-더-깊게-반도체-투톱-쏠림-시장-붕괴-조짐일까.md",
+    "html_rel": "summaries/2026/05/29/kbs-economy-show/5-28-목-핫이슈-더-깊게-반도체-투톱-쏠림-시장-붕괴-조짐일까.html",
+    "excerpt": "5/28 목 핫이슈, 더 깊게 반도체 투톱 쏠림, 시장 붕괴 조짐일까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 삼성전자·SK하이닉스 쏠림은 시장 피로와 변동성을 키우지만, 김효진 신영증권 연구원은 이익 가시성과 AI 사이클의 중심성 때문에 “근거 있는 쏠림”으로 해석했다.…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-05-28",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
