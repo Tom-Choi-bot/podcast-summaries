@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-05-29",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 5/29(금)",
+    "md_rel": "summaries/2026/05/29/hand-economy/손경제-5-29-금.md",
+    "html_rel": "summaries/2026/05/29/hand-economy/손경제-5-29-금.html",
+    "excerpt": "손경제 5/29 금 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 한국은행은 기준금리를 연 2.5%로 8회 연속 동결했지만, 물가·성장·환율·부동산 리스크를 이유로 연내 인상 가능성을 강하게 시사했습니다. 2. 국민연금은 국내 주식 목표 비중을 14.9…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-05-28",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
