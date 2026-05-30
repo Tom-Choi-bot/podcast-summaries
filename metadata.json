@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-05-30",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "5/29(금) - [윤지호의 Pick!] SK하이닉스, 코스피 시총 ‘1위'로 올라서나?",
+    "md_rel": "summaries/2026/05/30/kbs-economy-show/5-29-금-윤지호의-Pick-SK하이닉스-코스피-시총-1위-로-올라서나.md",
+    "html_rel": "summaries/2026/05/30/kbs-economy-show/5-29-금-윤지호의-Pick-SK하이닉스-코스피-시총-1위-로-올라서나.html",
+    "excerpt": "5/29 금 윤지호의 Pick! SK하이닉스, 코스피 시총 ‘1위'로 올라서나? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 참고: 전사는 전반적으로 충분한 분량이지만 일부 고유명사·숫자·표현에 STT 오류로 보이는 부분이 있습니다. 아래 요약은 전사에서 반복 확인되는 맥락 중심으로 정리했습니다…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-05-29",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
