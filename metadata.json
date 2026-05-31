@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-05-31",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "1. 260531일 - [지구촌 연구소] w 송이라 기자",
+    "md_rel": "summaries/2026/05/31/park-money-lab/1-260531일-지구촌-연구소-w-송이라-기자.md",
+    "html_rel": "summaries/2026/05/31/park-money-lab/1-260531일-지구촌-연구소-w-송이라-기자.html",
+    "excerpt": "1. 260531일 지구촌 연구소 w 송이라 기자 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. TSMC 내부에서 ‘성과급 15% 삭감설’이 퍼지며 삼성전자 성과급 합의와 비교한 직원 불만이 커졌고, 웨이저자 회장이 직접 소통에 나서 루머라고 수습했습니다. 2. AI 반도체 낙관…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-05-30",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
