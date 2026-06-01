@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-06-01",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260601월 [증시연구소] w 이권희 - '조정' 삼성전기 VS '상승세' 로봇주, 전망은?",
+    "md_rel": "summaries/2026/06/01/park-money-lab/2-260601월-증시연구소-w-이권희-조정-삼성전기-VS-상승세-로봇주-전망은.md",
+    "html_rel": "summaries/2026/06/01/park-money-lab/2-260601월-증시연구소-w-이권희-조정-삼성전기-VS-상승세-로봇주-전망은.html",
+    "excerpt": "2. 260601월 증시연구소 w 이권희 '조정' 삼성전기 VS '상승세' 로봇주, 전망은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 이권희 대표는 6월 증시가 단기 과열과 이벤트 탓에 조정을 받을 수는 있지만, 반도체·AI 중심의 구조적 성장과 낮은 밸류에이션 때문에 조정…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-01",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
     "title": "[손경제] 6/1(월) 국민연금 채권 | 외환시장 24시간 | 유럽 데이터센터 | 페라리 전기차",
