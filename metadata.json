@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-01",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/1(월) 국민연금 채권 | 외환시장 24시간 | 유럽 데이터센터 | 페라리 전기차",
+    "md_rel": "summaries/2026/06/01/hand-economy/손경제-6-1-월-국민연금-채권-외환시장-24시간-유럽-데이터센터-페라리-전기차.md",
+    "html_rel": "summaries/2026/06/01/hand-economy/손경제-6-1-월-국민연금-채권-외환시장-24시간-유럽-데이터센터-페라리-전기차.html",
+    "excerpt": "손경제 6/1 월 국민연금 채권 외환시장 24시간 유럽 데이터센터 페라리 전기차 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 국민연금의 국내 채권 목표 비중 축소는 채권 수요 감소 신호로 받아들여져 시장금리와 주택담보대출금리 상승 압력을 키울 수 있다…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-05-31",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
