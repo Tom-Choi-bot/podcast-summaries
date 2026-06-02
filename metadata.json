@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-06-02",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/2(화)",
+    "md_rel": "summaries/2026/06/02/hand-economy/손경제-6-2-화.md",
+    "html_rel": "summaries/2026/06/02/hand-economy/손경제-6-2-화.html",
+    "excerpt": "손경제 6/2 화 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 삼성전자 사내 주택대출 제도 도입 이후 SK하이닉스 노조도 비슷한 복지를 요구하면서, 반도체 호황이 임금·성과급을 넘어 주택금융 격차로 이어질 수 있다는 우려가 제기됐습니다. 2. 엔비디아…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-01",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
