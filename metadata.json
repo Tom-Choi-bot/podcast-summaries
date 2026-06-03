@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-03",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/3(수)",
+    "md_rel": "summaries/2026/06/03/hand-economy/손경제-6-3-수.md",
+    "html_rel": "summaries/2026/06/03/hand-economy/손경제-6-3-수.html",
+    "excerpt": "손경제 6/3 수 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 중복상장 가이드라인은 ‘원칙 금지·예외 허용’ 방향에서 주주 동의 절차, 특히 대주주 의결권을 3%로 제한하는 방식이 유력하게 거론됐다. 2. 알파벳이 막대한 현금과 회사채 조달에도 800…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-02",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
