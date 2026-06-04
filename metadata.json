@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-06-04",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260604목 [IT언박싱] w 강정수 - 엔비디아, 'PC 시장 진출'...의미와 영향은?",
+    "md_rel": "summaries/2026/06/04/park-money-lab/2-260604목-IT언박싱-w-강정수-엔비디아-PC-시장-진출-의미와-영향은.md",
+    "html_rel": "summaries/2026/06/04/park-money-lab/2-260604목-IT언박싱-w-강정수-엔비디아-PC-시장-진출-의미와-영향은.html",
+    "excerpt": "2. 260604목 IT언박싱 w 강정수 엔비디아, 'PC 시장 진출'...의미와 영향은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 엔비디아는 이번 컴퓨텍스/GTＣ 타이베이의 핵심 메시지를 “AI 투게더”로 제시하며, GPU 단품 기업을 넘어 CPU·메모리·데이터센터·제조·…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-04",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/3(수) - [핫이슈, 더 깊게] 'AI' 패권시대, AI 제대로 쓰고 계십니까?",
