@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-04",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/3(수) - [핫이슈, 더 깊게] 'AI' 패권시대, AI 제대로 쓰고 계십니까?",
+    "md_rel": "summaries/2026/06/04/kbs-economy-show/6-3-수-핫이슈-더-깊게-AI-패권시대-AI-제대로-쓰고-계십니까.md",
+    "html_rel": "summaries/2026/06/04/kbs-economy-show/6-3-수-핫이슈-더-깊게-AI-패권시대-AI-제대로-쓰고-계십니까.html",
+    "excerpt": "6/3 수 핫이슈, 더 깊게 'AI' 패권시대, AI 제대로 쓰고 계십니까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. AI는 더 이상 미래 기술이 아니라 전장·보안·소프트웨어·법률·회계 등 인지 노동 영역을 빠르게 재편하는 “두 번째 산업혁명”으로 설명됐다. 2. 박태웅 녹…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-03",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
