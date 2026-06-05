@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-06-05",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/5(금) 환율 1540원대 | 전력 가격상한제 | 브라질 원유 증산",
+    "md_rel": "summaries/2026/06/05/hand-economy/손경제-6-5-금-환율-1540원대-전력-가격상한제-브라질-원유-증산.md",
+    "html_rel": "summaries/2026/06/05/hand-economy/손경제-6-5-금-환율-1540원대-전력-가격상한제-브라질-원유-증산.html",
+    "excerpt": "손경제 6/5 금 환율 1540원대 전력 가격상한제 브라질 원유 증산 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 원달러 환율은 개장부터 1,530원대를 넘고 야간거래에서 한때 1,540원까지 밀리며, 1,500원대 장기 체류가 IMF 외환위기 이후 …",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-04",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
