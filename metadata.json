@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-06",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "커피타임(협찬) - 고든 램지도 손종원도 저희 것만 씁니다 with 바다숲",
+    "md_rel": "summaries/2026/06/06/hand-economy/커피타임-협찬-고든-램지도-손종원도-저희-것만-씁니다-with-바다숲.md",
+    "html_rel": "summaries/2026/06/06/hand-economy/커피타임-협찬-고든-램지도-손종원도-저희-것만-씁니다-with-바다숲.html",
+    "excerpt": "커피타임 협찬 고든 램지도 손종원도 저희 것만 씁니다 with 바다숲 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 국내 유일 감태 전문 브랜드 ‘바다숲’의 송주현 대표가 출연해 감태의 생태, 생산 방식, 시장 확장 과정과 사업상 어려움을 설명했습니다.…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-05",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
