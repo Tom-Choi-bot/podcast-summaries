@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-06-06",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/5(금) - [윤지호의 Pick!] 외국인 100조 매도.. 6월보다 7월 증시 위험?",
+    "md_rel": "summaries/2026/06/06/kbs-economy-show/6-5-금-윤지호의-Pick-외국인-100조-매도-6월보다-7월-증시-위험.md",
+    "html_rel": "summaries/2026/06/06/kbs-economy-show/6-5-금-윤지호의-Pick-외국인-100조-매도-6월보다-7월-증시-위험.html",
+    "excerpt": "6/5 금 윤지호의 Pick! 외국인 100조 매도.. 6월보다 7월 증시 위험? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 코스피는 장중 8,038까지 밀린 뒤 8,160에 마감하며 5.5% 하락했고, 코스닥도 장중 1,000선을 밑돌았다가 1,002로 마감했다. 2. 급락…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-06",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
     "title": "커피타임(협찬) - 고든 램지도 손종원도 저희 것만 씁니다 with 바다숲",
