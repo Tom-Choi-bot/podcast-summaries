@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-06-09",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260609화 [돈터뷰] w 민재기 - \"변동성 장세\" 주목해야 할 변수는?",
+    "md_rel": "summaries/2026/06/09/park-money-lab/2-260609화-돈터뷰-w-민재기-변동성-장세-주목해야-할-변수는.md",
+    "html_rel": "summaries/2026/06/09/park-money-lab/2-260609화-돈터뷰-w-민재기-변동성-장세-주목해야-할-변수는.html",
+    "excerpt": "2. 260609화 돈터뷰 w 민재기 \"변동성 장세\" 주목해야 할 변수는? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 반도체·IT 하드웨어 급락은 AI 수혜 기대와 실적을 바탕으로 너무 빠르게 오른 뒤 수급 쏠림, 대형 IPO 이슈, 금리·환율 노이즈가 겹친 조정으로 해석했다…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-09",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/8(월) - [글로벌 인사이트] ‘블랙 먼데이' 공포, 단기조정 vs 하락의 시작?",
