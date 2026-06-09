@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-10",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/9(화) - [경제쇼 사업보고서] 이란전쟁으로 에너지 패권 재편... K-에너지 시대 도래할까?",
+    "md_rel": "summaries/2026/06/10/kbs-economy-show/6-9-화-경제쇼-사업보고서-이란전쟁으로-에너지-패권-재편-K-에너지-시대-도래할까.md",
+    "html_rel": "summaries/2026/06/10/kbs-economy-show/6-9-화-경제쇼-사업보고서-이란전쟁으로-에너지-패권-재편-K-에너지-시대-도래할까.html",
+    "excerpt": "6/9 화 경제쇼 사업보고서 이란전쟁으로 에너지 패권 재편... K 에너지 시대 도래할까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 이란 전쟁과 호르무즈 해협 봉쇄로 유가는 90~100달러 박스권에 머물고 있으며, 상황이 길어지면 150달러 이상 가능성도 언급됐지만 종전 시…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-09",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
