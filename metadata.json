@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-09",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/8(월) - [글로벌 인사이트] ‘블랙 먼데이' 공포, 단기조정 vs 하락의 시작?",
+    "md_rel": "summaries/2026/06/09/kbs-economy-show/6-8-월-글로벌-인사이트-블랙-먼데이-공포-단기조정-vs-하락의-시작.md",
+    "html_rel": "summaries/2026/06/09/kbs-economy-show/6-8-월-글로벌-인사이트-블랙-먼데이-공포-단기조정-vs-하락의-시작.html",
+    "excerpt": "6/8 월 글로벌 인사이트 ‘블랙 먼데이' 공포, 단기조정 vs 하락의 시작? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 코스피·코스닥이 동반 급락하며 ‘블랙 먼데이’ 공포가 커졌지만, 출연자는 과도하게 빠른 상승 뒤 실적에서 금리·환율 등 매크로로 시장 관심이 이동한 데 따…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-08",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
