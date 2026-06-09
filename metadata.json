@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-06-09",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "삼성·현대차·SK·LG·두산·네이버 만난 젠슨황, \"핵심은 AI DC와 피지컬 AI\" | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
+    "md_rel": "summaries/2026/06/09/samprotv/삼성-현대차-SK-LG-두산-네이버-만난-젠슨황-핵심은-AI-DC와-피지컬-AI-정프로-이주호-류종은-박병창-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/06/09/samprotv/삼성-현대차-SK-LG-두산-네이버-만난-젠슨황-핵심은-AI-DC와-피지컬-AI-정프로-이주호-류종은-박병창-오늘아침-라이브.html",
+    "excerpt": "삼성·현대차·SK·LG·두산·네이버 만난 젠슨황, \"핵심은 AI DC와 피지컬 AI\" 정프로, 이주호, 류종은, 박병창 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. ※ 전사는 전체 분량 기준으로 충분한 길이와 구간 수가 확보되어 있으나, 일부 고유명사·수치·용어에 STT 오인식이…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-09",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/8(월) - [글로벌 인사이트] ‘블랙 먼데이' 공포, 단기조정 vs 하락의 시작?",
@@ -8,6 +20,18 @@
     "html_rel": "summaries/2026/06/09/kbs-economy-show/6-8-월-글로벌-인사이트-블랙-먼데이-공포-단기조정-vs-하락의-시작.html",
     "excerpt": "6/8 월 글로벌 인사이트 ‘블랙 먼데이' 공포, 단기조정 vs 하락의 시작? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 코스피·코스닥이 동반 급락하며 ‘블랙 먼데이’ 공포가 커졌지만, 출연자는 과도하게 빠른 상승 뒤 실적에서 금리·환율 등 매크로로 시장 관심이 이동한 데 따…",
     "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-09",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/9(화) NDF 거래 | 앤트로픽 | 장바구니 물가상승",
+    "md_rel": "summaries/2026/06/09/hand-economy/손경제-6-9-화-NDF-거래-앤트로픽-장바구니-물가상승.md",
+    "html_rel": "summaries/2026/06/09/hand-economy/손경제-6-9-화-NDF-거래-앤트로픽-장바구니-물가상승.html",
+    "excerpt": "손경제 6/9 화 NDF 거래 앤트로픽 장바구니 물가상승 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 환율이 1550원 선까지 치솟자 국민연금의 선물환 매도·환헤지 재개가 시장에 달러 공급 신호를 줬고, 정부는 NDF 역외 차액결제선물환 시장과 기업의…",
+    "model": "faster-whisper large-v3 기본 설정.",
     "duration": null,
     "published": null
   },
