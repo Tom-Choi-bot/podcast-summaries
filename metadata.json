@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-06-10",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/10(수) WWDC26 | 엔비디아 동맹 | 레버리지ETF",
+    "md_rel": "summaries/2026/06/10/hand-economy/손경제-6-10-수-WWDC26-엔비디아-동맹-레버리지ETF.md",
+    "html_rel": "summaries/2026/06/10/hand-economy/손경제-6-10-수-WWDC26-엔비디아-동맹-레버리지ETF.html",
+    "excerpt": "손경제 6/10 수 WWDC26 엔비디아 동맹 레버리지ETF 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 애플은 WWDC26에서 시리 AI의 본격 도입을 발표했지만, 시장은 경쟁사를 뒤따라가는 수준이라는 평가와 출시 지역·언어 제약 때문에 냉담하게 반…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-09",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
