@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-11",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/10(수) - [핫이슈, 더 깊게] 출범 1주년, 이재명 대통령 부동산 시장 점검 및 전망은?",
+    "md_rel": "summaries/2026/06/11/kbs-economy-show/6-10-수-핫이슈-더-깊게-출범-1주년-이재명-대통령-부동산-시장-점검-및-전망은.md",
+    "html_rel": "summaries/2026/06/11/kbs-economy-show/6-10-수-핫이슈-더-깊게-출범-1주년-이재명-대통령-부동산-시장-점검-및-전망은.html",
+    "excerpt": "6/10 수 핫이슈, 더 깊게 출범 1주년, 이재명 대통령 부동산 시장 점검 및 전망은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 이재명 정부 출범 1주년 부동산 정책의 핵심 쟁점은 “투기 억제·세제 조정”뿐 아니라, 재건축·재개발 속도전이 전월세 시장에 줄 충격이다. 2.…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-10",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
