@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-06-11",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260611목 [돈터뷰] w 문남중 - 변동성 큰 조정장, 투자 전략은?",
+    "md_rel": "summaries/2026/06/11/park-money-lab/2-260611목-돈터뷰-w-문남중-변동성-큰-조정장-투자-전략은.md",
+    "html_rel": "summaries/2026/06/11/park-money-lab/2-260611목-돈터뷰-w-문남중-변동성-큰-조정장-투자-전략은.html",
+    "excerpt": "2. 260611목 돈터뷰 w 문남중 변동성 큰 조정장, 투자 전략은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 문남중 대신증권 수석연구위원은 6월부터 3분기까지 증시가 ‘우기’처럼 변동성이 크고 쉬어가는 구간이 될 수 있다고 봤다. 2. 물가 상승, 중동 전쟁 여파, 글로…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-11",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/10(수) - [핫이슈, 더 깊게] 출범 1주년, 이재명 대통령 부동산 시장 점검 및 전망은?",
