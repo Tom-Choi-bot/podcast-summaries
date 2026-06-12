@@ -63,6 +63,18 @@
     "date": "2026-06-12",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
+    "title": "[커피타임] 주식 걱정｜선관위 걱정｜환율 걱정",
+    "md_rel": "summaries/2026/06/12/hand-economy/커피타임-주식-걱정-선관위-걱정-환율-걱정.md",
+    "html_rel": "summaries/2026/06/12/hand-economy/커피타임-주식-걱정-선관위-걱정-환율-걱정.html",
+    "excerpt": "커피타임 주식 걱정｜선관위 걱정｜환율 걱정 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 새 조연출 송수빈 PD 소개를 시작으로, 집값·대출 규제·청년의 주거 기회 문제를 놓고 “규제를 풀면 집값이 더 오르고, 안 풀면 기회가 사라진다”는 딜레마를 이야…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-12",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
     "title": "[손경제] 6/12(금) 일자리 급감 | 가계대출 | 양극화 | 셔세권 집값",
     "md_rel": "summaries/2026/06/12/hand-economy/손경제-6-12-금-일자리-급감-가계대출-양극화-셔세권-집값.md",
     "html_rel": "summaries/2026/06/12/hand-economy/손경제-6-12-금-일자리-급감-가계대출-양극화-셔세권-집값.html",
