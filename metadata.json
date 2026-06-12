@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-12",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/11(목) - [핫이슈, 더 깊게] ‘삼성전자·SK하이닉스' 급락... ‘스페이스 X' 상장 or 금리 인상?",
+    "md_rel": "summaries/2026/06/12/kbs-economy-show/6-11-목-핫이슈-더-깊게-삼성전자-SK하이닉스-급락-스페이스-X-상장-or-금리-인상.md",
+    "html_rel": "summaries/2026/06/12/kbs-economy-show/6-11-목-핫이슈-더-깊게-삼성전자-SK하이닉스-급락-스페이스-X-상장-or-금리-인상.html",
+    "excerpt": "6/11 목 핫이슈, 더 깊게 ‘삼성전자·SK하이닉스' 급락... ‘스페이스 X' 상장 or 금리 인상? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 국내 증시는 장 초반 급락 뒤 반등했고, 코스닥은 3%대 하락에서 4%대 상승 마감으로 급격히 되돌렸다. 다만 외국인 매도, 스…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-11",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
