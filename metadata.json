@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-06-13",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260613토 - [영화연구소] w 박창영 기자",
+    "md_rel": "summaries/2026/06/13/park-money-lab/2-260613토-영화연구소-w-박창영-기자.md",
+    "html_rel": "summaries/2026/06/13/park-money-lab/2-260613토-영화연구소-w-박창영-기자.html",
+    "excerpt": "2. 260613토 영화연구소 w 박창영 기자 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 이번 회차는 영화 《포드 V 페라리》를 통해 자동차 산업에서 브랜드 이미지, 자본력, 기술 전환이 어떻게 충돌하는지 짚었습니다. 2. 페라리는 과거에는 포드의 막대한 자본과 르망24시 경…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-13",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/12(금) - [윤지호의 Pick!] K-조선, 황금사이클 10년?... 주가는?",
