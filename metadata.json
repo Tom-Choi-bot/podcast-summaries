@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-06-15",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/15(월) 美 AI 수출통제 | AI 가격경쟁 | 스페이스X 공모주 | 국제유가",
+    "md_rel": "summaries/2026/06/15/hand-economy/손경제-6-15-월-AI-수출통제-AI-가격경쟁-스페이스X-공모주-국제유가.md",
+    "html_rel": "summaries/2026/06/15/hand-economy/손경제-6-15-월-AI-수출통제-AI-가격경쟁-스페이스X-공모주-국제유가.html",
+    "excerpt": "손경제 6/15 월 美 AI 수출통제 AI 가격경쟁 스페이스X 공모주 국제유가 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 미국 정부가 앤스로픽의 최상위 AI 모델 ‘페이블5’와 ‘미토스5’를 수출통제 대상으로 지정하면서, AI 서비스도 반도체·군사기…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-14",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "1. 260614일 - [지구촌 연구소] w 송이라 기자",
+    "md_rel": "summaries/2026/06/14/park-money-lab/1-260614일-지구촌-연구소-w-송이라-기자.md",
+    "html_rel": "summaries/2026/06/14/park-money-lab/1-260614일-지구촌-연구소-w-송이라-기자.html",
+    "excerpt": "1. 260614일 지구촌 연구소 w 송이라 기자 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 항공 수요 회복과 지정학적 긴장으로 조종사 수요가 커지는 가운데, 민항기 조종사와 군 전투기 조종사의 보수·근무여건 격차가 군 조종사 이탈 문제를 키우고 있습니다. 2. 2026 북중…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-13",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
