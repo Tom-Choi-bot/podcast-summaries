@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-06-16",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "금감원, 스페이스X 청약 '제로' 미래에셋 조사 핵심 쟁점은? | 포드, 테슬라 이어 GM도 ESS 사업 진출 | [오늘아침 라이브]",
+    "md_rel": "summaries/2026/06/16/samprotv/금감원-스페이스X-청약-제로-미래에셋-조사-핵심-쟁점은-포드-테슬라-이어-GM도-ESS-사업-진출-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/06/16/samprotv/금감원-스페이스X-청약-제로-미래에셋-조사-핵심-쟁점은-포드-테슬라-이어-GM도-ESS-사업-진출-오늘아침-라이브.html",
+    "excerpt": "금감원, 스페이스X 청약 '제로' 미래에셋 조사 핵심 쟁점은? 포드, 테슬라 이어 GM도 ESS 사업 진출 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 스페이스X 상장 후 이틀간 주가가 약 42% 급등하면서, 공모 물량을 한 주도 배정받지 못한 미래에셋증권의 판…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-16",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/15(월) - [글로벌 인사이트] 'SMR' AI시대 전기패권 주역될까?",
