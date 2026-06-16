@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-16",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/15(월) - [글로벌 인사이트] 'SMR' AI시대 전기패권 주역될까?",
+    "md_rel": "summaries/2026/06/16/kbs-economy-show/6-15-월-글로벌-인사이트-SMR-AI시대-전기패권-주역될까.md",
+    "html_rel": "summaries/2026/06/16/kbs-economy-show/6-15-월-글로벌-인사이트-SMR-AI시대-전기패권-주역될까.html",
+    "excerpt": "6/15 월 글로벌 인사이트 'SMR' AI시대 전기패권 주역될까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. AI 데이터센터와 반도체·철강 등 고전력 산업 확대로 안정적이고 싼 전력 확보가 핵심 경쟁력으로 떠오르며 SMR이 분산 전원 후보로 부각됐다. 2. 정범진 경희대 교…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-15",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
