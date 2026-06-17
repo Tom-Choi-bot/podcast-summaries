@@ -8,7 +8,7 @@ Public GitHub Pages archive for Korean economic podcast summaries.
 
 ## Latest
 
-- [2026-06-17 summaries](summaries/2026/06/17/) (1 episodes)
+- [2026-06-17 summaries](summaries/2026/06/17/) (2 episodes)
 
 ## Structure
 
