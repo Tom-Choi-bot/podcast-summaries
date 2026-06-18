@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-18",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/17(수) - [인간, 기술 그리고 미래!] 자율주행·로보틱스·피지컬 AI, 승자는?",
+    "md_rel": "summaries/2026/06/18/kbs-economy-show/6-17-수-인간-기술-그리고-미래-자율주행-로보틱스-피지컬-AI-승자는.md",
+    "html_rel": "summaries/2026/06/18/kbs-economy-show/6-17-수-인간-기술-그리고-미래-자율주행-로보틱스-피지컬-AI-승자는.html",
+    "excerpt": "6/17 수 인간, 기술 그리고 미래! 자율주행·로보틱스·피지컬 AI, 승자는? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 참고: 전반부 시장 브리핑과 본편 대담은 정상적으로 전사됐으나, 종료 직후 49:25 이후에는 “Read” 등 의미 없는 잔여 전사 노이즈가 일부 있습니다. 3줄 브리핑 …",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-17",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
