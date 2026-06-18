@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-06-18",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/18(목) FOMC | 이란 원유 | 한은 물가 전망 | 퇴직연금 ETF",
+    "md_rel": "summaries/2026/06/18/hand-economy/손경제-6-18-목-FOMC-이란-원유-한은-물가-전망-퇴직연금-ETF.md",
+    "html_rel": "summaries/2026/06/18/hand-economy/손경제-6-18-목-FOMC-이란-원유-한은-물가-전망-퇴직연금-ETF.html",
+    "excerpt": "손경제 6/18 목 FOMC 이란 원유 한은 물가 전망 퇴직연금 ETF 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 워시 체제 첫 FOMC는 기준금리를 3.5~3.75%로 동결했지만, 성명서에서 인하 편향을 지우고 점도표가 연내 인상 쪽으로 뒤집히며 …",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-17",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
