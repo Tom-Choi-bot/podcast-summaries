@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-19",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/18(목) - [핫이슈, 더 깊게] 미 연준, 올해 금리 인상?.. 한은의 금리 인상 시점은?",
+    "md_rel": "summaries/2026/06/19/kbs-economy-show/6-18-목-핫이슈-더-깊게-미-연준-올해-금리-인상-한은의-금리-인상-시점은.md",
+    "html_rel": "summaries/2026/06/19/kbs-economy-show/6-18-목-핫이슈-더-깊게-미-연준-올해-금리-인상-한은의-금리-인상-시점은.html",
+    "excerpt": "6/18 목 핫이슈, 더 깊게 미 연준, 올해 금리 인상?.. 한은의 금리 인상 시점은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 케빈 워시 전사상 “케비너/케비노”로 인식 신임 미 연준 의장의 첫 FOMC는 기준금리 동결이었지만, 점도표와 발언은 연내 1~2회 인상 가능성…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-18",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
