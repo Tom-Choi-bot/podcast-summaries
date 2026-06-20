@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-06-20",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "3. 260620토 [목돈연구소 풀버전] - 문화연구소/영화연구소",
+    "md_rel": "summaries/2026/06/20/park-money-lab/3-260620토-목돈연구소-풀버전-문화연구소-영화연구소.md",
+    "html_rel": "summaries/2026/06/20/park-money-lab/3-260620토-목돈연구소-풀버전-문화연구소-영화연구소.html",
+    "excerpt": "3. 260620토 목돈연구소 풀버전 문화연구소/영화연구소 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 문화연구소는 대전시립미술관 전시 〈앤디 워홀: 예술을 팔다〉 를 계기로, 워홀이 “예술은 장사다”라는 태도로 상업·광고·대중소비를 미술의 언어로 바꾼 과정을 짚었습니다. 2.…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-20",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/19(금) - [윤지호의 Pick!] 코스피, 강세장은 맞다!...거품이 꺼진다면 시그널은?",
