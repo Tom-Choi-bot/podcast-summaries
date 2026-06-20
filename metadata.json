@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-06-20",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260620토 - [영화연구소] w 박창영 기자",
+    "md_rel": "summaries/2026/06/20/park-money-lab/2-260620토-영화연구소-w-박창영-기자.md",
+    "html_rel": "summaries/2026/06/20/park-money-lab/2-260620토-영화연구소-w-박창영-기자.html",
+    "excerpt": "2. 260620토 영화연구소 w 박창영 기자 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 이번 영화연구소는 앤디 위어 원작의 우주 SF 영화 〈프로젝트 헤일메리〉 를 스페이스X 상장 열풍과 연결해 읽었다. 2. 스페이스X는 750억 달러, 약 113조 원을 조달한 역대급 IP…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-20",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/19(금) - [윤지호의 Pick!] 코스피, 강세장은 맞다!...거품이 꺼진다면 시그널은?",
