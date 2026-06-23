@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-23",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/22(월) - [글로벌 인사이트] 첫 종전 MOU 협상... 이란전쟁 종전을 위한 과제는?",
+    "md_rel": "summaries/2026/06/23/kbs-economy-show/6-22-월-글로벌-인사이트-첫-종전-MOU-협상-이란전쟁-종전을-위한-과제는.md",
+    "html_rel": "summaries/2026/06/23/kbs-economy-show/6-22-월-글로벌-인사이트-첫-종전-MOU-협상-이란전쟁-종전을-위한-과제는.html",
+    "excerpt": "6/22 월 글로벌 인사이트 첫 종전 MOU 협상... 이란전쟁 종전을 위한 과제는? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 미국과 이란은 스위스에서 종전 MOU 이행을 위한 첫 협상을 시작했고, 18시간 마라톤 협상 끝에 60일 내 최종 합의를 위한 로드맵·고위급 위원회…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-22",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
