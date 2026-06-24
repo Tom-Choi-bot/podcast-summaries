@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-06-24",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/24(수) 코스피 폭락 | 석화업계 반도체 투자",
+    "md_rel": "summaries/2026/06/24/hand-economy/손경제-6-24-수-코스피-폭락-석화업계-반도체-투자.md",
+    "html_rel": "summaries/2026/06/24/hand-economy/손경제-6-24-수-코스피-폭락-석화업계-반도체-투자.html",
+    "excerpt": "손경제 6/24 수 코스피 폭락 석화업계 반도체 투자 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 코스피가 하루 9.99%, 910.71포인트 급락하며 낙폭 기준 사상 최대 수준을 기록했지만, 전쟁·금융위기급 외부 악재는 뚜렷하지 않았다는 평가가 나왔…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-23",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
