@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-25",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/24(수) - [핫이슈, 더 깊게] ‘장원영 화장품 주세요!' 세계를 홀린 K-뷰티",
+    "md_rel": "summaries/2026/06/25/kbs-economy-show/6-24-수-핫이슈-더-깊게-장원영-화장품-주세요-세계를-홀린-K-뷰티.md",
+    "html_rel": "summaries/2026/06/25/kbs-economy-show/6-24-수-핫이슈-더-깊게-장원영-화장품-주세요-세계를-홀린-K-뷰티.html",
+    "excerpt": "6/24 수 핫이슈, 더 깊게 ‘장원영 화장품 주세요!' 세계를 홀린 K 뷰티 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. K 뷰티는 2026년 1~5월 기준 5대 소비재 수출에서 농수산식품을 제치고 1위에 올랐고, 수출 대상도 202개국으로 넓어졌습니다. 2. 현재 성장은 과…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-24",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
