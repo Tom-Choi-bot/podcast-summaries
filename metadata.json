@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-06-25",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "SK하이닉스 내달 10일 나스닥 상장…최대 45조 ADR 발행 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+    "md_rel": "summaries/2026/06/25/samprotv/SK하이닉스-내달-10일-나스닥-상장-최대-45조-ADR-발행-정프로-이주호-권순우-박병창-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/06/25/samprotv/SK하이닉스-내달-10일-나스닥-상장-최대-45조-ADR-발행-정프로-이주호-권순우-박병창-오늘아침-라이브.html",
+    "excerpt": "SK하이닉스 내달 10일 나스닥 상장…최대 45조 ADR 발행 정프로, 이주호, 권순우, 박병창 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 마이크론 실적 서프라이즈와 HBM 장기계약 확대가 메모리 반도체 업황의 강한 수요·공급 부족을 재확인했고, 삼성전자·SK…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-25",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "6/24(수) - [핫이슈, 더 깊게] ‘장원영 화장품 주세요!' 세계를 홀린 K-뷰티",
