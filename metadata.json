@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-06-25",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 6/25(목)  SK하이닉스 ADR | 호남 반도체 | 성과급 제동 | 주택 공급",
+    "md_rel": "summaries/2026/06/25/hand-economy/손경제-6-25-목-SK하이닉스-ADR-호남-반도체-성과급-제동-주택-공급.md",
+    "html_rel": "summaries/2026/06/25/hand-economy/손경제-6-25-목-SK하이닉스-ADR-호남-반도체-성과급-제동-주택-공급.html",
+    "excerpt": "손경제 6/25 목 SK하이닉스 ADR 호남 반도체 성과급 제동 주택 공급 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. SK하이닉스는 다음 달 10일을 목표로 미국 나스닥 ADR 상장을 추진하며, 최대 약 45조 4,535억 원 규모의 신주 발행으로 …",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-24",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
