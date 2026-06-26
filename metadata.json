@@ -60,6 +60,18 @@
     "published": null
   },
   {
+    "date": "2026-06-26",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[경제콘서트] 지거국 리턴즈",
+    "md_rel": "summaries/2026/06/26/hand-economy/경제콘서트-지거국-리턴즈.md",
+    "html_rel": "summaries/2026/06/26/hand-economy/경제콘서트-지거국-리턴즈.html",
+    "excerpt": "경제콘서트 지거국 리턴즈 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 이번 경제콘서트는 수도권 쏠림과 지역 거점 국립대 약화를 같은 구조의 문제로 보고, 지역 대학·산업·일자리의 재설계를 해법으로 제시했습니다. 2. 교육부는 “서울대 10개 만들기”로…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-25",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
