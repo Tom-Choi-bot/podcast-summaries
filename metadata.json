@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-27",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/26(금) - [경제쇼 특집 공개방송] 윤쌤과 함께하는 투자수업 \"투자자의 기본사고 : 가치와 주가\"",
+    "md_rel": "summaries/2026/06/27/kbs-economy-show/6-26-금-경제쇼-특집-공개방송-윤쌤과-함께하는-투자수업-투자자의-기본사고-가치와-주가.md",
+    "html_rel": "summaries/2026/06/27/kbs-economy-show/6-26-금-경제쇼-특집-공개방송-윤쌤과-함께하는-투자수업-투자자의-기본사고-가치와-주가.html",
+    "excerpt": "6/26 금 경제쇼 특집 공개방송 윤쌤과 함께하는 투자수업 \"투자자의 기본사고 : 가치와 주가\" 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 전사는 전체 강연 흐름을 충분히 담고 있으나, 일부 고유명사·영문 용어·회사명이 음성인식 과정에서 부정확하게 표기된 부분이 있습니다. 아래 요약은 전사에서…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-26",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
