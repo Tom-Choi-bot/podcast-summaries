@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-06-28",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "1. 260628일 - [지구촌 연구소] w 송이라 기자",
+    "md_rel": "summaries/2026/06/28/park-money-lab/1-260628일-지구촌-연구소-w-송이라-기자.md",
+    "html_rel": "summaries/2026/06/28/park-money-lab/1-260628일-지구촌-연구소-w-송이라-기자.html",
+    "excerpt": "1. 260628일 지구촌 연구소 w 송이라 기자 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 중국 선전의 슈퍼컴퓨터 ‘라인샤인’이 미국 엘캐피탄보다 20% 이상 빠른 성능을 보였다는 보도가 소개되며, GPU 수출 통제만으로 중국의 AI·과학기술 추격을 막기 어렵다는 점이 부각…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-06-27",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
