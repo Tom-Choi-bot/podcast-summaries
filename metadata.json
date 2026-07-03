@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-03",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/2(목) - [핫이슈, 더 깊게] 브렉시트 10년, 상처와 교훈만 남은 영국 경제?",
+    "md_rel": "summaries/2026/07/03/kbs-economy-show/7-2-목-핫이슈-더-깊게-브렉시트-10년-상처와-교훈만-남은-영국-경제.md",
+    "html_rel": "summaries/2026/07/03/kbs-economy-show/7-2-목-핫이슈-더-깊게-브렉시트-10년-상처와-교훈만-남은-영국-경제.html",
+    "excerpt": "7/2 목 핫이슈, 더 깊게 브렉시트 10년, 상처와 교훈만 남은 영국 경제? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 국내 증시 급락 : 메타발 반도체 악재와 숏감마 효과로 코스피 7.8%, 코스닥 6% 넘게 하락, 삼성전자 9%, 하이닉스 14% 폭락 2. 브렉시트 10…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-02",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
