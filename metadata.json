@@ -60,6 +60,18 @@
     "published": null
   },
   {
+    "date": "2026-07-02",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/2(목) 수출 데이터 | 메타 클라우드 | 오픈 USD | 풍선효과 | 앱마켓",
+    "md_rel": "summaries/2026/07/02/hand-economy/손경제-7-2-목-수출-데이터-메타-클라우드-오픈-USD-풍선효과-앱마켓.md",
+    "html_rel": "summaries/2026/07/02/hand-economy/손경제-7-2-목-수출-데이터-메타-클라우드-오픈-USD-풍선효과-앱마켓.html",
+    "excerpt": "손경제 7/2 목 수출 데이터 메타 클라우드 오픈 USD 풍선효과 앱마켓 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 6월 월 수출액이 사상 처음 1,000억 달러 1,022.5억 달러, 약 156조 원 를 돌파했으나 반도체·SSD가 절반 이상을 차지…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-01",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
@@ -92,6 +104,18 @@
     "html_rel": "summaries/2026/06/30/park-money-lab/1-260630-목돈연구소-풀버전-키옥시아-직원-600명-100억-스톡옵션-잭팟-중국은-막고-일본은-캐고-희토류-전쟁-중국-추격-미국-관세-독일-제조업-사면초가.html",
     "excerpt": "1. 260630 목돈연구소 풀버전 키옥시아 직원 600명 '100억 스톡옵션' 잭팟 '중국은 막고, 일본은 캐고'...희토류 전쟁 \"중국 추격·미국 관세\"…독일 제조업 '사면초가' 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo faster whisper, CPU, int8 . 3줄 브리핑 1. 상…",
     "model": "large-v3-turbo (faster-whisper, CPU, int8).",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-30",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/29(월) - [핫이슈, 더 깊게] 1년새 10% 오른 수도권 집값... '닥치고 아파트' 지어야 할때?",
+    "md_rel": "summaries/2026/06/30/kbs-economy-show/6-29-월-핫이슈-더-깊게-1년새-10-오른-수도권-집값-닥치고-아파트-지어야-할때.md",
+    "html_rel": "summaries/2026/06/30/kbs-economy-show/6-29-월-핫이슈-더-깊게-1년새-10-오른-수도권-집값-닥치고-아파트-지어야-할때.html",
+    "excerpt": "6/29 월 핫이슈, 더 깊게 1년새 10% 오른 수도권 집값... '닥치고 아파트' 지어야 할때? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 서울 아파트값 1년간 1억 6천만원 상승, 수도권 양극화 심화 : 서울만 상승·전국은 하락, 강남3구·한강벨트·경부벨트 중심 과열, …",
+    "model": "large-v3-turbo.",
     "duration": null,
     "published": null
   },
