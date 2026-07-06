@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-07-04",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/3(금) - [윤지호의 Pick!] '3대 메가 프로젝트'...돈은 '피지컬 AI'로? 현대차 주가 오를까?",
+    "md_rel": "summaries/2026/07/04/kbs-economy-show/7-3-금-윤지호의-Pick-3대-메가-프로젝트-돈은-피지컬-AI-로-현대차-주가-오를까.md",
+    "html_rel": "summaries/2026/07/04/kbs-economy-show/7-3-금-윤지호의-Pick-3대-메가-프로젝트-돈은-피지컬-AI-로-현대차-주가-오를까.html",
+    "excerpt": "7/3 금 윤지호의 Pick! '3대 메가 프로젝트'...돈은 '피지컬 AI'로? 현대차 주가 오를까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo faster whisper, CPU int8 . 3줄 브리핑 1. 정부가 800조 원 규모 3대 메가 프로젝트 반도체·AI 데이터센터·피지컬 AI 를…",
+    "model": "large-v3-turbo (faster-whisper, CPU int8).",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-03",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
@@ -19,6 +31,18 @@
     "md_rel": "summaries/2026/07/03/samprotv/메타-AI-인프라-팔-것-반도체-고점론-남아서-파는-게-아니다-오픈AI-미-정부에-지분-5-기부-제안-오늘아침-라이브.md",
     "html_rel": "summaries/2026/07/03/samprotv/메타-AI-인프라-팔-것-반도체-고점론-남아서-파는-게-아니다-오픈AI-미-정부에-지분-5-기부-제안-오늘아침-라이브.html",
     "excerpt": "메타 \"AI 인프라 팔 것\" 반도체 고점론?…남아서 파는 게 아니다 \"오픈AI, 미 정부에 지분 5% 기부 제안\" 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 메타가 AI 인프라 GPU 클러스터 를 외부 판매하는 것은 '남아서 파는 것'이 아니라, 잘 클러스터링…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-03",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260703금 [맨손경제] w 윤슬기 & 이광수 - K-패스 환급 확대 등 하반기 생활 경제 변화 - 5대 명품, 한국서 3년간 2.1조원 챙겨 - 유니클로·탑텐, 국내 SPA 1위 자리 경쟁 - 40대 주부들, 라이브커머스 시장 '큰 손'",
+    "md_rel": "summaries/2026/07/03/park-money-lab/2-260703금-맨손경제-w-윤슬기-이광수-K-패스-환급-확대-등-하반기-생활-경제-변화-5대-명품-한국서-3년간-2-1조원-챙겨-유니클로-탑텐-국내-SPA-1.md",
+    "html_rel": "summaries/2026/07/03/park-money-lab/2-260703금-맨손경제-w-윤슬기-이광수-K-패스-환급-확대-등-하반기-생활-경제-변화-5대-명품-한국서-3년간-2-1조원-챙겨-유니클로-탑텐-국내-SPA-1.html",
+    "excerpt": "2. 260703금 맨손경제 w 윤슬기 & 이광수 K 패스 환급 확대 등 하반기 생활 경제 변화 5대 명품, 한국서 3년간 2.1조원 챙겨 유니클로·탑텐, 국내 SPA 1위 자리 경쟁 40대 주부들, 라이브커머스 시장 '큰 손' 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 교통…",
     "model": "large-v3-turbo.",
     "duration": null,
     "published": null
