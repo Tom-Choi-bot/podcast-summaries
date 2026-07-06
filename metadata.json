@@ -60,6 +60,18 @@
     "published": null
   },
   {
+    "date": "2026-07-03",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[커피타임] 리더의 권한과 책임｜SK하이닉스와 애국",
+    "md_rel": "summaries/2026/07/03/hand-economy/커피타임-리더의-권한과-책임-SK하이닉스와-애국.md",
+    "html_rel": "summaries/2026/07/03/hand-economy/커피타임-리더의-권한과-책임-SK하이닉스와-애국.html",
+    "excerpt": "커피타임 리더의 권한과 책임｜SK하이닉스와 애국 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 이진우가 운영하는 농산물 쇼핑몰이 품질·홈페이지·공지 미흡으로 초기 시행착오를 겪으며 100% 환불·일괄 취소 등 수습 과정에서 리더의 책임 소재를 체감함. …",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-02",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
