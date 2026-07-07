@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-07",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/6(월) - [글로벌 인사이트] 트럼프, 2028년까지 '양자컴' 실용화 명령!... 양자컴에 진심인 이유?!",
+    "md_rel": "summaries/2026/07/07/kbs-economy-show/7-6-월-글로벌-인사이트-트럼프-2028년까지-양자컴-실용화-명령-양자컴에-진심인-이유.md",
+    "html_rel": "summaries/2026/07/07/kbs-economy-show/7-6-월-글로벌-인사이트-트럼프-2028년까지-양자컴-실용화-명령-양자컴에-진심인-이유.html",
+    "excerpt": "7/6 월 글로벌 인사이트 트럼프, 2028년까지 '양자컴' 실용화 명령!... 양자컴에 진심인 이유?! 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo. 3줄 브리핑 1. 트럼프 대통령이 2028년까지 연방기관·기업·학교 협력으로 양자컴퓨터 배치와 정부 암호체계 전면 교체…",
+    "model": "faster-whisper large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-04",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
