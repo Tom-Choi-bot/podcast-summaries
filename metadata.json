@@ -87,6 +87,18 @@
     "date": "2026-07-03",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
+    "title": "[커피타임] 노후상가가 아파트가 되는 기적",
+    "md_rel": "summaries/2026/07/03/hand-economy/커피타임-노후상가가-아파트가-되는-기적.md",
+    "html_rel": "summaries/2026/07/03/hand-economy/커피타임-노후상가가-아파트가-되는-기적.html",
+    "excerpt": "커피타임 노후상가가 아파트가 되는 기적 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 재건축 단지 내 상가는 아파트와 함께 재건축되며, 상가 소유자도 일정 요건 충족 시 아파트 분양권을 받을 수 있다. 2. 상가와 아파트 간 이해관계 충돌 감정평가, 분…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-03",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
     "title": "[손경제] 7/3(금) 케빈 워시 | 국민연금 개혁 | 오픈AI",
     "md_rel": "summaries/2026/07/03/hand-economy/손경제-7-3-금-케빈-워시-국민연금-개혁-오픈AI.md",
     "html_rel": "summaries/2026/07/03/hand-economy/손경제-7-3-금-케빈-워시-국민연금-개혁-오픈AI.html",
@@ -176,6 +188,18 @@
     "html_rel": "summaries/2026/06/30/samprotv/삼성-SK-4755조원-투자-안도하는-글로벌-빅테크-이미-시작된-454조-중동-재건-시장-러브콜-시작-오늘아침-라이브.html",
     "excerpt": "삼성·SK 4755조원 투자…안도하는 글로벌 빅테크 이미 시작된 454조 중동 재건 시장…\"러브콜 시작\" 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo faster whisper, CPU, int8, Korean . 3줄 브리핑 1. 삼성·SK 4,755조 원 메가 투자 발표 — 용…",
     "model": "large-v3-turbo (faster-whisper, CPU, int8, Korean).",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-06-30",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260630화 [증시연구소] w 염승환 - 2026년 하반기, 투자 전략은?",
+    "md_rel": "summaries/2026/06/30/park-money-lab/2-260630화-증시연구소-w-염승환-2026년-하반기-투자-전략은.md",
+    "html_rel": "summaries/2026/06/30/park-money-lab/2-260630화-증시연구소-w-염승환-2026년-하반기-투자-전략은.html",
+    "excerpt": "2. 260630화 증시연구소 w 염승환 2026년 하반기, 투자 전략은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo 3줄 브리핑 1. 2026년 상반기는 AI 반도체 삼성전자·SK하이닉스 집중 투자와 레버리지 ETF 과열로 역대급 변동성을 기록한 '삼전닉스 독주장'이었음 2. 하반기도 AI 인…",
+    "model": "large-v3-turbo",
     "duration": null,
     "published": null
   },
