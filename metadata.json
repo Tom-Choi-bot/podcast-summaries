@@ -72,6 +72,18 @@
     "published": null
   },
   {
+    "date": "2026-07-03",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/3(금) 케빈 워시 | 국민연금 개혁 | 오픈AI",
+    "md_rel": "summaries/2026/07/03/hand-economy/손경제-7-3-금-케빈-워시-국민연금-개혁-오픈AI.md",
+    "html_rel": "summaries/2026/07/03/hand-economy/손경제-7-3-금-케빈-워시-국민연금-개혁-오픈AI.html",
+    "excerpt": "손경제 7/3 금 케빈 워시 국민연금 개혁 오픈AI 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 케빈 워시 신임 연준 의장이 \"물가는 여전히 높다\"며 매파적 발언을 했으나, 유가 하락 등으로 인플레이션 위험은 낮아지고 있다며 금리 결정은 신중히 하겠다…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-02",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
@@ -80,6 +92,18 @@
     "html_rel": "summaries/2026/07/02/samprotv/6월-수출-첫-1천억-달러-넘어-이대로-가면-일본-제치고-세계-4강-현대차-기아-상반기-미국서-역대-최다-판매-오늘아침-라이브.html",
     "excerpt": "6월 수출 첫 1천억 달러 넘어…이대로 가면 일본 제치고 세계 4강 현대차·기아, 상반기 미국서 역대 최다 판매 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo 3줄 브리핑 1. 6월 수출 1,022억 달러로 사상 첫 월 1천억 달러 돌파 — 반도체 448억…",
     "model": "faster-whisper large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-02",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260702목 [돈 [돈터뷰] w 채상욱 - 2026년 하반기 국내 증시와 부동산 시장은?",
+    "md_rel": "summaries/2026/07/02/park-money-lab/2-260702목-돈터뷰-w-채상욱-2026년-하반기-국내-증시와-부동산-시장은.md",
+    "html_rel": "summaries/2026/07/02/park-money-lab/2-260702목-돈터뷰-w-채상욱-2026년-하반기-국내-증시와-부동산-시장은.html",
+    "excerpt": "2. 260702목 돈 돈터뷰 w 채상욱 2026년 하반기 국내 증시와 부동산 시장은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 메타의 클라우드 사업 진출 발언으로 촉발된 반도체 조정은 일시적 내러티브일 뿐, 메타의 1,400억 달러 3년 연속 Capex와 장기 공급 계약으…",
+    "model": "large-v3-turbo.",
     "duration": null,
     "published": null
   },
