@@ -205,6 +205,18 @@
   },
   {
     "date": "2026-07-01",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "6/30(화) - [핫이슈, 더 깊게] 30돌 앞둔 '코스닥'...'천스닥' 넘어 '삼천스닥' 갈까?",
+    "md_rel": "summaries/2026/07/01/kbs-economy-show/6-30-화-핫이슈-더-깊게-30돌-앞둔-코스닥-천스닥-넘어-삼천스닥-갈까.md",
+    "html_rel": "summaries/2026/07/01/kbs-economy-show/6-30-화-핫이슈-더-깊게-30돌-앞둔-코스닥-천스닥-넘어-삼천스닥-갈까.html",
+    "excerpt": "6/30 화 핫이슈, 더 깊게 30돌 앞둔 '코스닥'...'천스닥' 넘어 '삼천스닥' 갈까? 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo 3줄 브리핑 1. 코스닥 출범 30주년을 맞았으나 지수는 1,000포인트 아래 약 916 로 후퇴, 시총 비중은 전체의 6.5%에 불…",
+    "model": "faster-whisper large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-01",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
     "title": "[손경제] 7/1(수) 동탄·기흥·구리 | EU 철강 장벽 | 슈퍼엔저",
