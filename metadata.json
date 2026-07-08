@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-08",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/7(화) - [핫이슈, 더 깊게] '이러다 다죽어!' 레버리지 ETF가 키운 변동성? ETF 500조 시대의 명암!",
+    "md_rel": "summaries/2026/07/08/kbs-economy-show/7-7-화-핫이슈-더-깊게-이러다-다죽어-레버리지-ETF가-키운-변동성-ETF-500조-시대의-명암.md",
+    "html_rel": "summaries/2026/07/08/kbs-economy-show/7-7-화-핫이슈-더-깊게-이러다-다죽어-레버리지-ETF가-키운-변동성-ETF-500조-시대의-명암.html",
+    "excerpt": "7/7 화 핫이슈, 더 깊게 '이러다 다죽어!' 레버리지 ETF가 키운 변동성? ETF 500조 시대의 명암! 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo 3줄 브리핑 1. 국내 ETF 시장이 상반기 순자산 500조 원을 돌파했으나, 23년간 297조 원이던 시장이 6개…",
+    "model": "faster-whisper large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-07",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
@@ -8,6 +20,18 @@
     "html_rel": "summaries/2026/07/07/kbs-economy-show/7-6-월-글로벌-인사이트-트럼프-2028년까지-양자컴-실용화-명령-양자컴에-진심인-이유.html",
     "excerpt": "7/6 월 글로벌 인사이트 트럼프, 2028년까지 '양자컴' 실용화 명령!... 양자컴에 진심인 이유?! 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo. 3줄 브리핑 1. 트럼프 대통령이 2028년까지 연방기관·기업·학교 협력으로 양자컴퓨터 배치와 정부 암호체계 전면 교체…",
     "model": "faster-whisper large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-06",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "전 세계가 주목하는 한국의 일주일 '메모리 150조' 서프라이즈 기대 높아 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/06/samprotv/전-세계가-주목하는-한국의-일주일-메모리-150조-서프라이즈-기대-높아-정프로-이주호-권순우-박병창-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/06/samprotv/전-세계가-주목하는-한국의-일주일-메모리-150조-서프라이즈-기대-높아-정프로-이주호-권순우-박병창-오늘아침-라이브.html",
+    "excerpt": "전 세계가 주목하는 한국의 일주일 '메모리 150조' 서프라이즈 기대 높아 정프로, 이주호, 권순우, 박병창 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo faster whisper . 3줄 브리핑 1. 삼성전자·SK하이닉스 2분기 합산 영업이익 150조 원 돌파 여부가 이번 주 최…",
+    "model": "large-v3-turbo (faster-whisper).",
     "duration": null,
     "published": null
   },
@@ -176,6 +200,18 @@
     "html_rel": "summaries/2026/07/01/samprotv/엔화-40년-만에-최저-원달러-1550원-돌파-광주-이어-해남-고창-삼성-SK-반도체-팹-AI-데이터센터-건설-오늘아침-라이브.html",
     "excerpt": "엔화 40년 만에 최저·원달러 1550원 돌파 광주 이어 해남·고창…삼성·SK, 반도체 팹·AI 데이터센터 건설 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 환율 미스터리 : 엔화 39년 7개월 만 최저 162.4엔 , 원달러 1,550원 돌파 — 펀더멘털 경상…",
     "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-01",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/1(수) 동탄·기흥·구리 | EU 철강 장벽 | 슈퍼엔저",
+    "md_rel": "summaries/2026/07/01/hand-economy/손경제-7-1-수-동탄-기흥-구리-EU-철강-장벽-슈퍼엔저.md",
+    "html_rel": "summaries/2026/07/01/hand-economy/손경제-7-1-수-동탄-기흥-구리-EU-철강-장벽-슈퍼엔저.html",
+    "excerpt": "손경제 7/1 수 동탄·기흥·구리 EU 철강 장벽 슈퍼엔저 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo 기본 설정. 3줄 브리핑 1. 화성 동탄구·용인 기흥구·구리시가 조정대상지역·투기과열지구·토지거래허가구역 3중 규제 지역으로 지정, LTV 40%·다주택자 0%·주담대…",
+    "model": "faster-whisper large-v3-turbo 기본 설정.",
     "duration": null,
     "published": null
   },
