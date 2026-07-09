@@ -24,6 +24,18 @@
     "published": null
   },
   {
+    "date": "2026-07-07",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/7(화) 삼성전자 실적 | 국민연금 리밸런싱 유예 | 중복상장 금지 | 반도체 추가 세수",
+    "md_rel": "summaries/2026/07/07/hand-economy/손경제-7-7-화-삼성전자-실적-국민연금-리밸런싱-유예-중복상장-금지-반도체-추가-세수.md",
+    "html_rel": "summaries/2026/07/07/hand-economy/손경제-7-7-화-삼성전자-실적-국민연금-리밸런싱-유예-중복상장-금지-반도체-추가-세수.html",
+    "excerpt": "손경제 7/7 화 삼성전자 실적 국민연금 리밸런싱 유예 중복상장 금지 반도체 추가 세수 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 삼성전자 2분기 잠정실적 매출 171조·영업이익 89.4조로 분기 기준 세계 1위 기록, 영업이익률 52%로 시장 전망…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-06",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
