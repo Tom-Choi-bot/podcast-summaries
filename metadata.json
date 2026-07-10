@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-10",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/9(목) - [인간, 기술, 그리고 미래!] 폭염에 폭발하는 미국의 AI데이터센터 갈등",
+    "md_rel": "summaries/2026/07/10/kbs-economy-show/7-9-목-인간-기술-그리고-미래-폭염에-폭발하는-미국의-AI데이터센터-갈등.md",
+    "html_rel": "summaries/2026/07/10/kbs-economy-show/7-9-목-인간-기술-그리고-미래-폭염에-폭발하는-미국의-AI데이터센터-갈등.html",
+    "excerpt": "7/9 목 인간, 기술, 그리고 미래! 폭염에 폭발하는 미국의 AI데이터센터 갈등 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 미국 전역의 기록적 폭염으로 전력 수요가 폭증하자, 연방 정부가 AI 데이터센터를 공공전력망에서 분리하는 비상명령을 내리는 등 전력 인프라 위기가 현실…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-08",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
