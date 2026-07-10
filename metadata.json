@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-07-09",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "UBS \"SK하이닉스 ADR 사고 한국 주식 팔아라\" | 김용범 정책실장 \"원전, 가능한 만큼 다 지어야\" | [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/09/samprotv/UBS-SK하이닉스-ADR-사고-한국-주식-팔아라-김용범-정책실장-원전-가능한-만큼-다-지어야-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/09/samprotv/UBS-SK하이닉스-ADR-사고-한국-주식-팔아라-김용범-정책실장-원전-가능한-만큼-다-지어야-오늘아침-라이브.html",
+    "excerpt": "UBS \"SK하이닉스 ADR 사고 한국 주식 팔아라\" 김용범 정책실장 \"원전, 가능한 만큼 다 지어야\" 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo CPU, int8, 한국어 3줄 브리핑 1. SK하이닉스 ADR 상장 임박 — 블룸버그 보도 기준 공모 청…",
+    "model": "faster-whisper",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-08",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
@@ -20,6 +32,18 @@
     "html_rel": "summaries/2026/07/08/kbs-economy-show/7-7-화-핫이슈-더-깊게-이러다-다죽어-레버리지-ETF가-키운-변동성-ETF-500조-시대의-명암.html",
     "excerpt": "7/7 화 핫이슈, 더 깊게 '이러다 다죽어!' 레버리지 ETF가 키운 변동성? ETF 500조 시대의 명암! 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo 3줄 브리핑 1. 국내 ETF 시장이 상반기 순자산 500조 원을 돌파했으나, 23년간 297조 원이던 시장이 6개…",
     "model": "faster-whisper large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-08",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/8(수) 레버리지ETF | 예금 금리 | 소비자물가 개편",
+    "md_rel": "summaries/2026/07/08/hand-economy/손경제-7-8-수-레버리지ETF-예금-금리-소비자물가-개편.md",
+    "html_rel": "summaries/2026/07/08/hand-economy/손경제-7-8-수-레버리지ETF-예금-금리-소비자물가-개편.html",
+    "excerpt": "손경제 7/8 수 레버리지ETF 예금 금리 소비자물가 개편 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 미국이 이란을 공습하며 중동 긴장 고조, 국제유가 3% 급등 WTI 73달러, 브렌트유 74달러 → 국내 주식시장과 물가 불안 요인 2. 단일종목 …",
+    "model": "faster-whisper large-v3 기본 설정.",
     "duration": null,
     "published": null
   },
@@ -68,6 +92,18 @@
     "html_rel": "summaries/2026/07/06/samprotv/전-세계가-주목하는-한국의-일주일-메모리-150조-서프라이즈-기대-높아-정프로-이주호-권순우-박병창-오늘아침-라이브.html",
     "excerpt": "전 세계가 주목하는 한국의 일주일 '메모리 150조' 서프라이즈 기대 높아 정프로, 이주호, 권순우, 박병창 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo faster whisper . 3줄 브리핑 1. 삼성전자·SK하이닉스 2분기 합산 영업이익 150조 원 돌파 여부가 이번 주 최…",
     "model": "large-v3-turbo (faster-whisper).",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-06",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260706월 [증시연구소] w 이권희 - \"삼전 실적 발표 임박\" 반도체주 상승 모멘텀 되나?",
+    "md_rel": "summaries/2026/07/06/park-money-lab/2-260706월-증시연구소-w-이권희-삼전-실적-발표-임박-반도체주-상승-모멘텀-되나.md",
+    "html_rel": "summaries/2026/07/06/park-money-lab/2-260706월-증시연구소-w-이권희-삼전-실적-발표-임박-반도체주-상승-모멘텀-되나.html",
+    "excerpt": "2. 260706월 증시연구소 w 이권희 \"삼전 실적 발표 임박\" 반도체주 상승 모멘텀 되나? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 메타쇼크 이후 반도체 시장이 흔들렸으나, 실상은 생성형 AI에서 에이전틱/피지컬 AI로 수요가 이동 중이며 빅테크의 메모리 수요는 여전히 …",
+    "model": "large-v3-turbo.",
     "duration": null,
     "published": null
   },
