@@ -37,6 +37,18 @@
   },
   {
     "date": "2026-07-08",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260708수 [부동산연구소] w 김인만 - '동탄-기흥-구리 규제' 일주일 후, 현장분위기는?",
+    "md_rel": "summaries/2026/07/08/park-money-lab/2-260708수-부동산연구소-w-김인만-동탄-기흥-구리-규제-일주일-후-현장분위기는.md",
+    "html_rel": "summaries/2026/07/08/park-money-lab/2-260708수-부동산연구소-w-김인만-동탄-기흥-구리-규제-일주일-후-현장분위기는.html",
+    "excerpt": "2. 260708수 부동산연구소 w 김인만 '동탄 기흥 구리 규제' 일주일 후, 현장분위기는? 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo. 3줄 브리핑 1. 6월 30일 발표된 동탄·기흥·구리 조정대상·투기과열지구 지정 7월 1일 시행 일주일 후, 규제 지역 내 거래는…",
+    "model": "faster-whisper large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-08",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "7/7(화) - [핫이슈, 더 깊게] '이러다 다죽어!' 레버리지 ETF가 키운 변동성? ETF 500조 시대의 명암!",
