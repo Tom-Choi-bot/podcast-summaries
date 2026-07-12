@@ -25,6 +25,18 @@
   },
   {
     "date": "2026-07-10",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260710금 [돈터뷰] w 홍춘옥 - \"반도체주 거센 조정\"...원인은? 주요 변수는?",
+    "md_rel": "summaries/2026/07/10/park-money-lab/2-260710금-돈터뷰-w-홍춘옥-반도체주-거센-조정-원인은-주요-변수는.md",
+    "html_rel": "summaries/2026/07/10/park-money-lab/2-260710금-돈터뷰-w-홍춘옥-반도체주-거센-조정-원인은-주요-변수는.html",
+    "excerpt": "2. 260710금 돈터뷰 w 홍춘옥 \"반도체주 거센 조정\"...원인은? 주요 변수는? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo CPU, int8, ko . 3줄 브리핑 1. 홍춘옥 프리즘 투자자문 대표 은 반도체주 최근 급조정을 \"세계에서 가장 변동성이 큰 산업에 레버리지가 얹힌 결과\"로 진…",
+    "model": "large-v3-turbo (CPU, int8, ko).",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-10",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "7/9(목) - [인간, 기술, 그리고 미래!] 폭염에 폭발하는 미국의 AI데이터센터 갈등",
