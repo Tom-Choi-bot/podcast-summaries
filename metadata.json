@@ -25,6 +25,18 @@
   },
   {
     "date": "2026-07-11",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "1. 260711토 - [문화연구소] w 이정우 에디터",
+    "md_rel": "summaries/2026/07/11/park-money-lab/1-260711토-문화연구소-w-이정우-에디터.md",
+    "html_rel": "summaries/2026/07/11/park-money-lab/1-260711토-문화연구소-w-이정우-에디터.html",
+    "excerpt": "1. 260711토 문화연구소 w 이정우 에디터 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 익명 디지털 아티스트 '슐롬스 Shl0ms '가 5월 중순 X에 진짜 모네 수련 그림을 \"AI 생성\"으로 위장해 올리자, 수백만 명이 \"영혼 없는 쓰레기\"라며 혹평했고 진품임이 밝혀진 …",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-11",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "7/10(금) - [윤지호의 Pick!] 약세장 시작됐나, 증시 꺾일때 반드시 나오는 4가지 신호?",
