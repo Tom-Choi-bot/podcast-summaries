@@ -36,6 +36,18 @@
     "published": null
   },
   {
+    "date": "2026-07-10",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/10(금) 외환위기 망령 | 모아주택 규제 완화 | 먹거리 물가",
+    "md_rel": "summaries/2026/07/10/hand-economy/손경제-7-10-금-외환위기-망령-모아주택-규제-완화-먹거리-물가.md",
+    "html_rel": "summaries/2026/07/10/hand-economy/손경제-7-10-금-외환위기-망령-모아주택-규제-완화-먹거리-물가.html",
+    "excerpt": "손경제 7/10 금 외환위기 망령 모아주택 규제 완화 먹거리 물가 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. FT는 한국 증시가 MSCI 선진국 지수에 편입하지 못하는 이유를 1997년 외환위기의 '트라우마'에서 비롯된 폐쇄적 외환시장 구조 역외원화…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-09",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
@@ -44,6 +56,30 @@
     "html_rel": "summaries/2026/07/09/samprotv/UBS-SK하이닉스-ADR-사고-한국-주식-팔아라-김용범-정책실장-원전-가능한-만큼-다-지어야-오늘아침-라이브.html",
     "excerpt": "UBS \"SK하이닉스 ADR 사고 한국 주식 팔아라\" 김용범 정책실장 \"원전, 가능한 만큼 다 지어야\" 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo CPU, int8, 한국어 3줄 브리핑 1. SK하이닉스 ADR 상장 임박 — 블룸버그 보도 기준 공모 청…",
     "model": "faster-whisper",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-09",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "1. 260709목 [목돈연구소 풀버전] - KB국민은행, 주택구입 대출 한도 절반 축소 - IMF, 한국 성장률 2.6%로 대폭 상향 - Fed, 금리 인상 시사…'물가 압박 우려'",
+    "md_rel": "summaries/2026/07/09/park-money-lab/1-260709목-목돈연구소-풀버전-KB국민은행-주택구입-대출-한도-절반-축소-IMF-한국-성장률-2-6-로-대폭-상향-Fed-금리-인상-시사-물가-압박-우려.md",
+    "html_rel": "summaries/2026/07/09/park-money-lab/1-260709목-목돈연구소-풀버전-KB국민은행-주택구입-대출-한도-절반-축소-IMF-한국-성장률-2-6-로-대폭-상향-Fed-금리-인상-시사-물가-압박-우려.html",
+    "excerpt": "1. 260709목 목돈연구소 풀버전 KB국민은행, 주택구입 대출 한도 절반 축소 IMF, 한국 성장률 2.6%로 대폭 상향 Fed, 금리 인상 시사…'물가 압박 우려' 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. KB국민은행이 내일 7/10 부터 주택구입 목적 주담대 최고 한…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-08",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "미 정부, 한국 조선사에 전투함·급유함 타진 | '세계 최고 실적' 삼성전자, 모건스탠리 \"반도체 줄여라\"에 와르르 | [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/08/samprotv/미-정부-한국-조선사에-전투함-급유함-타진-세계-최고-실적-삼성전자-모건스탠리-반도체-줄여라-에-와르르-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/08/samprotv/미-정부-한국-조선사에-전투함-급유함-타진-세계-최고-실적-삼성전자-모건스탠리-반도체-줄여라-에-와르르-오늘아침-라이브.html",
+    "excerpt": "미 정부, 한국 조선사에 전투함·급유함 타진 '세계 최고 실적' 삼성전자, 모건스탠리 \"반도체 줄여라\"에 와르르 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 미국 국방부·해군이 한국 조선사 현대중공업, 삼성중공업 에 전투함·중형급 급유함 관련 정보 요청 RFI …",
+    "model": "large-v3-turbo.",
     "duration": null,
     "published": null
   },
