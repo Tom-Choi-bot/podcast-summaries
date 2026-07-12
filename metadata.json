@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-07-10",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "메타, 캐나다에 1GW 데이터센터 건설…과잉 투자설 불식 | 확신 사라진 증시, 빚투도 줄었다…예금은 12조 증가 | [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/10/samprotv/메타-캐나다에-1GW-데이터센터-건설-과잉-투자설-불식-확신-사라진-증시-빚투도-줄었다-예금은-12조-증가-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/10/samprotv/메타-캐나다에-1GW-데이터센터-건설-과잉-투자설-불식-확신-사라진-증시-빚투도-줄었다-예금은-12조-증가-오늘아침-라이브.html",
+    "excerpt": "메타, 캐나다에 1GW 데이터센터 건설…과잉 투자설 불식 확신 사라진 증시, 빚투도 줄었다…예금은 12조 증가 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 메타가 캐나다 알버타주에 1GW급 향후 1.8GW 확장 AI 데이터센터를 착공하며, 앞서 제기된 'AI 컴…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-10",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "7/9(목) - [인간, 기술, 그리고 미래!] 폭염에 폭발하는 미국의 AI데이터센터 갈등",
@@ -68,6 +80,18 @@
     "html_rel": "summaries/2026/07/09/park-money-lab/1-260709목-목돈연구소-풀버전-KB국민은행-주택구입-대출-한도-절반-축소-IMF-한국-성장률-2-6-로-대폭-상향-Fed-금리-인상-시사-물가-압박-우려.html",
     "excerpt": "1. 260709목 목돈연구소 풀버전 KB국민은행, 주택구입 대출 한도 절반 축소 IMF, 한국 성장률 2.6%로 대폭 상향 Fed, 금리 인상 시사…'물가 압박 우려' 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. KB국민은행이 내일 7/10 부터 주택구입 목적 주담대 최고 한…",
     "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-09",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/9(목) 딥시크 AI칩 | 중국 AI 장벽 | SK하이닉스 ADR | 중고폰 시장",
+    "md_rel": "summaries/2026/07/09/hand-economy/손경제-7-9-목-딥시크-AI칩-중국-AI-장벽-SK하이닉스-ADR-중고폰-시장.md",
+    "html_rel": "summaries/2026/07/09/hand-economy/손경제-7-9-목-딥시크-AI칩-중국-AI-장벽-SK하이닉스-ADR-중고폰-시장.html",
+    "excerpt": "손경제 7/9 목 딥시크 AI칩 중국 AI 장벽 SK하이닉스 ADR 중고폰 시장 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo. 3줄 브리핑 1. 딥시크를 비롯한 중국 AI 기업들이 미국 수출 규제에 대응해 자체 추론용 AI 칩 개발에 나섰고, 중국 정부는 자국 AI 모델…",
+    "model": "faster-whisper large-v3-turbo.",
     "duration": null,
     "published": null
   },
@@ -175,6 +199,18 @@
     "md_rel": "summaries/2026/07/06/park-money-lab/2-260706월-증시연구소-w-이권희-삼전-실적-발표-임박-반도체주-상승-모멘텀-되나.md",
     "html_rel": "summaries/2026/07/06/park-money-lab/2-260706월-증시연구소-w-이권희-삼전-실적-발표-임박-반도체주-상승-모멘텀-되나.html",
     "excerpt": "2. 260706월 증시연구소 w 이권희 \"삼전 실적 발표 임박\" 반도체주 상승 모멘텀 되나? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 메타쇼크 이후 반도체 시장이 흔들렸으나, 실상은 생성형 AI에서 에이전틱/피지컬 AI로 수요가 이동 중이며 빅테크의 메모리 수요는 여전히 …",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-04",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "3. 260704토 [목돈연구소 풀버전] 문화연구소 / 영화연구소",
+    "md_rel": "summaries/2026/07/04/park-money-lab/3-260704토-목돈연구소-풀버전-문화연구소-영화연구소.md",
+    "html_rel": "summaries/2026/07/04/park-money-lab/3-260704토-목돈연구소-풀버전-문화연구소-영화연구소.html",
+    "excerpt": "3. 260704토 목돈연구소 풀버전 문화연구소 / 영화연구소 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 미국 고급 주택시장에서 AI 기업 앤트로픽 의 비상장 주식을 집값 대신 받는 신종 거래가 늘며, 「주식 줄게 큰집다오」 시대상이 화제. 2. 문화연구소는 세종문화회관 미술…",
     "model": "large-v3-turbo.",
     "duration": null,
     "published": null
