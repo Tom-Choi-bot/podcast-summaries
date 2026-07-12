@@ -39,6 +39,18 @@
     "date": "2026-07-10",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
+    "title": "[커피타임] 세상만사 9할이 우연인데",
+    "md_rel": "summaries/2026/07/10/hand-economy/커피타임-세상만사-9할이-우연인데.md",
+    "html_rel": "summaries/2026/07/10/hand-economy/커피타임-세상만사-9할이-우연인데.html",
+    "excerpt": "커피타임 세상만사 9할이 우연인데 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo. 3줄 브리핑 1. 손에 잡히는 경제의 프리미엄 쇼핑몰 '큐레이션' 신규 품목인 달항아리 멜론 평균 당도 16브릭스, 28,900원 을 시식하며 단맛과 선물용 포장, 손경제와의 협업 배경 IP…",
+    "model": "faster-whisper large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-10",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
     "title": "[커피타임] 그놈의 레버리지 ETF",
     "md_rel": "summaries/2026/07/10/hand-economy/커피타임-그놈의-레버리지-ETF.md",
     "html_rel": "summaries/2026/07/10/hand-economy/커피타임-그놈의-레버리지-ETF.html",
@@ -151,6 +163,18 @@
     "md_rel": "summaries/2026/07/07/samprotv/60조-캐나다-잠수함-독일-TKMS로-한화-탈락-나토-장벽-높아-정프로-이주호-권순우-박병창-오늘아침-라이브.md",
     "html_rel": "summaries/2026/07/07/samprotv/60조-캐나다-잠수함-독일-TKMS로-한화-탈락-나토-장벽-높아-정프로-이주호-권순우-박병창-오늘아침-라이브.html",
     "excerpt": "60조 캐나다 잠수함 독일 TKMS로, 한화 탈락…나토 장벽 높아 정프로, 이주호, 권순우, 박병창 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 캐나다 차세대 잠수함 사업 CPSP : 60조 원 규모 사업에서 한화오션이 독일 TKMS에 밀려 탈락. 나토 동맹국 …",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-07",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260707화 [돈터뷰] w 이선엽 - '삼전, 어닝 서프라이즈에도 급락'…3분기 투자 방향은?",
+    "md_rel": "summaries/2026/07/07/park-money-lab/2-260707화-돈터뷰-w-이선엽-삼전-어닝-서프라이즈에도-급락-3분기-투자-방향은.md",
+    "html_rel": "summaries/2026/07/07/park-money-lab/2-260707화-돈터뷰-w-이선엽-삼전-어닝-서프라이즈에도-급락-3분기-투자-방향은.html",
+    "excerpt": "2. 260707화 돈터뷰 w 이선엽 '삼전, 어닝 서프라이즈에도 급락'…3분기 투자 방향은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 삼성전자가 2분기에 석 달 만에 약 106~110조 원 영업이익 기준 을 벌었는데도 주가가 급락한 진짜 원인은 실적이 아니라, 미국 빅테크…",
     "model": "large-v3-turbo.",
     "duration": null,
     "published": null
