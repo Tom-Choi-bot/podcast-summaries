@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-07-11",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "3. 260711토 [목돈연구소 풀버전] 문화연구소 / 영화연구소",
+    "md_rel": "summaries/2026/07/11/park-money-lab/3-260711토-목돈연구소-풀버전-문화연구소-영화연구소.md",
+    "html_rel": "summaries/2026/07/11/park-money-lab/3-260711토-목돈연구소-풀버전-문화연구소-영화연구소.html",
+    "excerpt": "3. 260711토 목돈연구소 풀버전 문화연구소 / 영화연구소 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 문화연구소는 2026년 모네 서거 100주년을 맞아 X에서 벌어진 'AI인 줄 알고 혹평했다가 진짜 모네 그림이었다'는 슐롬스의 실험을 통해 \"우리가 그림 그 자체가 아닌…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-11",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "7/10(금) - [윤지호의 Pick!] 약세장 시작됐나, 증시 꺾일때 반드시 나오는 4가지 신호?",
