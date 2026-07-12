@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-11",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/10(금) - [윤지호의 Pick!] 약세장 시작됐나, 증시 꺾일때 반드시 나오는 4가지 신호?",
+    "md_rel": "summaries/2026/07/11/kbs-economy-show/7-10-금-윤지호의-Pick-약세장-시작됐나-증시-꺽일때-반드시-나오는-4가지-신호.md",
+    "html_rel": "summaries/2026/07/11/kbs-economy-show/7-10-금-윤지호의-Pick-약세장-시작됐나-증시-꺽일때-반드시-나오는-4가지-신호.html",
+    "excerpt": "7/10 금 윤지호의 Pick! 약세장 시작됐나, 증시 꺾일때 반드시 나오는 4가지 신호? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo faster whisper, CPU int8 . 3줄 브리핑 1. 증시 진단 : 7월 10일 코스피 2.5% 상승 2,475 , 코스닥 5.4% 상승 837 으로…",
+    "model": "large-v3-turbo (faster-whisper, CPU int8).",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-10",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
