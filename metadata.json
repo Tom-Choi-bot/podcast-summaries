@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-07-13",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260713월 [증시연구소] w 이권희 - \"SK하이닉스 나스닥 ADR 상장\"...영향은?",
+    "md_rel": "summaries/2026/07/13/park-money-lab/2-260713월-증시연구소-w-이권희-SK하이닉스-나스닥-ADR-상장-영향은.md",
+    "html_rel": "summaries/2026/07/13/park-money-lab/2-260713월-증시연구소-w-이권희-SK하이닉스-나스닥-ADR-상장-영향은.html",
+    "excerpt": "2. 260713월 증시연구소 w 이권희 \"SK하이닉스 나스닥 ADR 상장\"...영향은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. SK하이닉스 나스닥 ADR이 첫 거래일 약 13% 상승으로 성공적으로 안착했으나, 국내 증시는 같은 날 하이닉스가 10% 이상 급락하며 200만…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-13",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
     "title": "[손경제] 7/13(월) SK하이닉스 ADR | 미국 반도체 투자 | 현대차 월급제",
