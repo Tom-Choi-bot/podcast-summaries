@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-14",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/13(월) - [글로벌 인사이트] '스테이블 코인', 무엇이 달라질까?",
+    "md_rel": "summaries/2026/07/14/kbs-economy-show/7-13-월-글로벌-인사이트-스테이블-코인-무엇이-달라질까.md",
+    "html_rel": "summaries/2026/07/14/kbs-economy-show/7-13-월-글로벌-인사이트-스테이블-코인-무엇이-달라질까.html",
+    "excerpt": "7/13 월 글로벌 인사이트 '스테이블 코인', 무엇이 달라질까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 미국의 'GENIUS Act 지니어스법 ' 통과로 달러 기반 스테이블코인 시장이 급성장했으며, 기초자산 미국 국채·요구불예금 등 요건을 못 맞춘 테더 USDT 는 위축…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-13",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
