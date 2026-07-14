@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-07-14",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "호르무즈 다시 막혔다...'20% 통행료' 선언 | SK하이닉스 ADR 9.3% 급락…TSMC 역대 최대 매출 또 경신 | [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/14/samprotv/호르무즈-다시-막혔다-20-통행료-선언-SK하이닉스-ADR-9-3-급락-TSMC-역대-최대-매출-또-경신-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/14/samprotv/호르무즈-다시-막혔다-20-통행료-선언-SK하이닉스-ADR-9-3-급락-TSMC-역대-최대-매출-또-경신-오늘아침-라이브.html",
+    "excerpt": "호르무즈 다시 막혔다...'20% 통행료' 선언 SK하이닉스 ADR 9.3% 급락…TSMC 역대 최대 매출 또 경신 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 트럼프 대통령이 호르무즈 해협을 지나는 화물의 20%를 '안전보장 통행료'로 받겠다고 선언해 유가·금…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-14",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "7/13(월) - [글로벌 인사이트] '스테이블 코인', 무엇이 달라질까?",
