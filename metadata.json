@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-07-14",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260714화 [돈터뷰] w 염승환 - \"코스피 7000선 붕괴\" 조정 VS 추세 전환?",
+    "md_rel": "summaries/2026/07/14/park-money-lab/2-260714화-돈터뷰-w-염승환-코스피-7000선-붕괴-조정-VS-추세-전환.md",
+    "html_rel": "summaries/2026/07/14/park-money-lab/2-260714화-돈터뷰-w-염승환-코스피-7000선-붕괴-조정-VS-추세-전환.html",
+    "excerpt": "2. 260714화 돈터뷰 w 염승환 \"코스피 7000선 붕괴\" 조정 VS 추세 전환? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 코스피 급락은 실적 악화가 아니라 반도체 삼성전자·하이닉스 에 대한 '의심' 이 확신으로 바뀌며 레버리지 ETF가 하락을 증폭시킨 결과다. 2. …",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-14",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "7/13(월) - [글로벌 인사이트] '스테이블 코인', 무엇이 달라질까?",
