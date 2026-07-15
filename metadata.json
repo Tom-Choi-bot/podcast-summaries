@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-15",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/14(화) - [인간, 기술 그리고 미래!] AI가 인간 일자리를 뺏는다고요? 창조적 직업을 가질 수 있습니다",
+    "md_rel": "summaries/2026/07/15/kbs-economy-show/7-14-화-인간-기술-그리고-미래-AI가-인간-일자리를-뺏는다고요-창조적-직업을-가질-수-있습니다.md",
+    "html_rel": "summaries/2026/07/15/kbs-economy-show/7-14-화-인간-기술-그리고-미래-AI가-인간-일자리를-뺏는다고요-창조적-직업을-가질-수-있습니다.html",
+    "excerpt": "7/14 화 인간, 기술 그리고 미래! AI가 인간 일자리를 뺏는다고요? 창조적 직업을 가질 수 있습니다 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 이경전 전 경희대 교수는 \"AI가 일자리를 없앤다\"는 통념을 반박하며, 과거 자동화 카메라·인쇄술·자동차·ATM 사례와 '재본스…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-14",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
