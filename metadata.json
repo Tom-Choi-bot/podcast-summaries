@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-16",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/15(수) - [핫이슈, 더 깊게] 코스피 극심한 변동성, 레버리지 ETF 탓? 국민연금 탓?",
+    "md_rel": "summaries/2026/07/16/kbs-economy-show/7-15-수-핫이슈-더-깊게-코스피-극심한-변동성-레버리지-ETF-탓-국민연금-탓.md",
+    "html_rel": "summaries/2026/07/16/kbs-economy-show/7-15-수-핫이슈-더-깊게-코스피-극심한-변동성-레버리지-ETF-탓-국민연금-탓.html",
+    "excerpt": "7/15 수 핫이슈, 더 깊게 코스피 극심한 변동성, 레버리지 ETF 탓? 국민연금 탓? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 2026 07 15 방송, KBS 1라디오 최상욱의 경제쇼 3줄 브리핑 1. 코스피가 전일 급락 뒤 이날 6.2% 급등 7284, 장중 8.2% 하며 매수사이드카…",
+    "model": "large-v3-turbo. (2026-07-15 방송, KBS 1라디오 최상욱의 경제쇼)",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-15",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
