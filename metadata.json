@@ -12,6 +12,18 @@
     "published": null
   },
   {
+    "date": "2026-07-16",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/16(목) 순대외금융자산 | 뉴욕 데이터센터 건설금지 | 공모주 청약증거금 | 매도담보대출 이자율 | F4회의",
+    "md_rel": "summaries/2026/07/16/hand-economy/손경제-7-16-목-순대외금융자산-뉴욕-데이터센터-건설금지-공모주-청약증거금-매도담보대출-이자율-F4회의.md",
+    "html_rel": "summaries/2026/07/16/hand-economy/손경제-7-16-목-순대외금융자산-뉴욕-데이터센터-건설금지-공모주-청약증거금-매도담보대출-이자율-F4회의.html",
+    "excerpt": "손경제 7/16 목 순대외금융자산 뉴욕 데이터센터 건설금지 공모주 청약증거금 매도담보대출 이자율 F4회의 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo CPU, int8 . 3줄 브리핑 1. 한국의 순대외금융자산이 급감하고 있는데, 원인은 \"나라가 가난해져서\"가 아니라 코…",
+    "model": "faster-whisper large-v3-turbo (CPU, int8).",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-15",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
