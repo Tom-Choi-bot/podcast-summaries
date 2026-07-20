@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-20",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "협찬인가 - 보험사 말을 믿으십니까?",
+    "md_rel": "summaries/2026/07/20/hand-economy/협찬인가-보험사-말을-믿으십니까.md",
+    "html_rel": "summaries/2026/07/20/hand-economy/협찬인가-보험사-말을-믿으십니까.html",
+    "excerpt": "협찬인가 보험사 말을 믿으십니까? 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 보험금을 누가, 얼마나 줄지 산정하는 '손해사정사'에는 보험사 소속과 소비자가 고용하는 '독립손해사정사'가 있으며, 소비자는 2020년 도입된 '손해사정사 선임권 제도'로 …",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-19",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
