@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-07-21",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "이해진, 북미 방문 투자 유치에 젠슨 황 회동할 듯 | 삼성바이오 2.7조 빅딜…'황금알' 비만약 시장 진출 | [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/21/samprotv/이해진-북미-방문-투자-유치에-젠슨-황-회동할-듯-삼성바이오-2-7조-빅딜-황금알-비만약-시장-진출-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/21/samprotv/이해진-북미-방문-투자-유치에-젠슨-황-회동할-듯-삼성바이오-2-7조-빅딜-황금알-비만약-시장-진출-오늘아침-라이브.html",
+    "excerpt": "이해진, 북미 방문 투자 유치에 젠슨 황 회동할 듯 삼성바이오 2.7조 빅딜…'황금알' 비만약 시장 진출 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 turbo korean tuned 삼프로TV 오늘아침 라이브 방송에서 이해진 대표가 북미 방문 중 투자 유치 활동을…",
+    "model": "faster-whisper large-v3-turbo (korean-tuned)",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-21",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260721화 [부동산연구소] w 김인만 - 서울·경기 '집값 과열'... 부동산 전망은?",
+    "md_rel": "summaries/2026/07/21/park-money-lab/2-260721화-부동산연구소-w-김인만-서울-경기-집값-과열-부동산-전망은.md",
+    "html_rel": "summaries/2026/07/21/park-money-lab/2-260721화-부동산연구소-w-김인만-서울-경기-집값-과열-부동산-전망은.html",
+    "excerpt": "2. 260721화 부동산연구소 w 김인만 서울·경기 '집값 과열'... 부동산 전망은? 전체 오디오 전사 기반 요약. 전사 모델: unknown. 3줄 브리핑 1. 서울 집값 상승률은 0.3%로 정체되었으나, 강남은 낮은 상승을 보이고 외곽 지역들이 상승을 주도하고 있음. 2. 규제 지역 지정 후 전세와 월세 가격이 2…",
+    "model": "unknown.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-21",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/21(화) 국내생산촉진세제 | 세계화 역전 | 명품업계 관행",
+    "md_rel": "summaries/2026/07/21/hand-economy/손경제-7-21-화-국내생산촉진세제-세계화-역전-명품업계-관행.md",
+    "html_rel": "summaries/2026/07/21/hand-economy/손경제-7-21-화-국내생산촉진세제-세계화-역전-명품업계-관행.html",
+    "excerpt": "손경제 7/21 화 국내생산촉진세제 세계화 역전 명품업계 관행 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 한국판 IRA로 불리는 국내생산촉진세제 도입이 논의 중이며, 핵심은 직접환급제 implementation 방식이다. 2. 세계화 흐름이 역전되어…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-20",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
