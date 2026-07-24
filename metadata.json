@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-07-24",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/23(목) - [핫이슈, 더 깊게] 부동산 국민 대토론회... 집값 안정 해법 찾을까?",
+    "md_rel": "summaries/2026/07/24/kbs-economy-show/7-23-목-핫이슈-더-깊게-부동산-국민-대토론회-집값-안정-해법-찾을까.md",
+    "html_rel": "summaries/2026/07/24/kbs-economy-show/7-23-목-핫이슈-더-깊게-부동산-국민-대토론회-집값-안정-해법-찾을까.html",
+    "excerpt": "7/23 목 핫이슈, 더 깊게 부동산 국민 대토론회... 집값 안정 해법 찾을까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 이재명 대통령이 주재한 부동산 정책 국민 대토론회에서 대통령은 일가구 유택 보호를 위한 원래 취지였으나, 거주용과 투기용을 구분하지 못해 투기적 수요가…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-24",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
     "title": "[손경제] 7/24(금) 미국 강제노동 관세 | 부동산 대토론회 | AI 투자 확대 | 2분기 경제성장률",
