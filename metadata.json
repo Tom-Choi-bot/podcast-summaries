@@ -13,6 +13,18 @@
   },
   {
     "date": "2026-07-22",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/21(화) - [핫이슈, 더 깊게] 반도체 30% 급락... 빅테크 실적이 반등 모멘텀 될까?",
+    "md_rel": "summaries/2026/07/22/kbs-economy-show/7-21-화-핫이슈-더-깊게-반도체-30-급락-빅테크-실적이-반등-모멘텀-될까.md",
+    "html_rel": "summaries/2026/07/22/kbs-economy-show/7-21-화-핫이슈-더-깊게-반도체-30-급락-빅테크-실적이-반등-모멘텀-될까.html",
+    "excerpt": "7/21 화 핫이슈, 더 깊게 반도체 30% 급락... 빅테크 실적이 반등 모멘텀 될까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo 3줄 브리핑 1. 코스피가 3.5% 상승하며 반등했지만, 반도체 대형주들은 고점 대비 30% 수준으로 급락하며 개인 투자 심리를 크게 어췄으며, 이는 과도한 단일 …",
+    "model": "large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-22",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
     "title": "[손경제] 7/22(수) 홈플러스 | 로봇 사업",
