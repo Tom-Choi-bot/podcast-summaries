@@ -169,6 +169,18 @@
   },
   {
     "date": "2026-07-21",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/20(월) - [글로벌 인사이트] 중국 '키미 K3', 제2의 딥시크 쇼크될까?",
+    "md_rel": "summaries/2026/07/21/kbs-economy-show/7-20-월-글로벌-인사이트-중국-키미-K3-제2의-딥시크-쇼크될까.md",
+    "html_rel": "summaries/2026/07/21/kbs-economy-show/7-20-월-글로벌-인사이트-중국-키미-K3-제2의-딥시크-쇼크될까.html",
+    "excerpt": "7/20 월 글로벌 인사이트 중국 '키미 K3', 제2의 딥시크 쇼크될까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 중국 AI 스타트업 모선 AI가 공개한 오픈소스 모델 '키미 K3'가 미국 주요 폐쇄형 모델 성능에 근접하면서 글로벌 증시에 충격을 주었고, 이는 '중국판 딥…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-21",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
     "title": "[손경제] 7/21(화) 국내생산촉진세제 | 세계화 역전 | 명품업계 관행",
