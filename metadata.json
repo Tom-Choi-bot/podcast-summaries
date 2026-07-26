@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-25",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/24(금) - [윤지호의 Pick!] '키미 k3' 부터 'AI' 과잉투자 논란까지... 반도체 버틸수있을까?",
+    "md_rel": "summaries/2026/07/25/kbs-economy-show/7-24-금-윤지호의-Pick-키미-k3-부터-AI-과잉투자-논란까지-반도체-버틸수있을까.md",
+    "html_rel": "summaries/2026/07/25/kbs-economy-show/7-24-금-윤지호의-Pick-키미-k3-부터-AI-과잉투자-논란까지-반도체-버틸수있을까.html",
+    "excerpt": "7/24 금 윤지호의 Pick! '키미 k3' 부터 'AI' 과잉투자 논란까지... 반도체 버틸수있을까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo 3줄 브리핑 1. 반도체 주가가 나스닥 하락과 관세 불확실성으로 하향 조정되었으나, 장기적으로는 AI 수요와 LTA Long Term Agreeme…",
+    "model": "large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-24",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
