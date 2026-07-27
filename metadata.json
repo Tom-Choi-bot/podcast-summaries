@@ -51,6 +51,18 @@
     "date": "2026-07-24",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
+    "title": "[커피타임] 부동산 '소'토론회",
+    "md_rel": "summaries/2026/07/24/hand-economy/커피타임-부동산-소-토론회.md",
+    "html_rel": "summaries/2026/07/24/hand-economy/커피타임-부동산-소-토론회.html",
+    "excerpt": "커피타임 부동산 '소'토론회 주의: 이 요약은 자동 생성된 placeholder입니다. 자세한 내용은 전사 파일을 참조하십시오. 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 깔끔한 기준이 만든 더 나은 선택, 2. 프리미엄 쇼핑몰 큐레이션 X손경제 오…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-24",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
     "title": "[손경제] 7/24(금) 미국 강제노동 관세 | 부동산 대토론회 | AI 투자 확대 | 2분기 경제성장률",
     "md_rel": "summaries/2026/07/24/hand-economy/손경제-7-24-금-미국-강제노동-관세-부동산-대토론회-AI-투자-확대-2분기-경제성장률.md",
     "html_rel": "summaries/2026/07/24/hand-economy/손경제-7-24-금-미국-강제노동-관세-부동산-대토론회-AI-투자-확대-2분기-경제성장률.html",
@@ -80,6 +92,18 @@
     "html_rel": "summaries/2026/07/23/park-money-lab/1-260723목-목돈연구소-풀버전-이재용-최태원-이해진-젠슨-황과-AI-회동-대출-우대금리-조건에-체크카드-실적-도-포함-홈플러스-영업-재개-트레이더조식-매장-.html",
     "excerpt": "1. 260723목 목돈연구소 풀버전 이재용·최태원·이해진, 젠슨 황과 AI 회동 대출 우대금리 조건에 '체크카드 실적'도 포함 홈플러스 영업 재개...'트레이더조식' 매장 전환 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo candidates: large v3 turbo, large v3, gho…",
     "model": "large-v3-turbo (candidates: large-v3-turbo, large-v3, ghost613/faster-whisper-large-v3-turbo-korean, fallback: none)",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-23",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/22(수) - [경제쇼 사업보고서] 폭스바겐 10만명 감원에 혼다까지 흔들... 현대차는?",
+    "md_rel": "summaries/2026/07/23/kbs-economy-show/7-22-수-경제쇼-사업보고서-폭스바겐-10만명-감원에-혼다까지-흔들-현대차는.md",
+    "html_rel": "summaries/2026/07/23/kbs-economy-show/7-22-수-경제쇼-사업보고서-폭스바겐-10만명-감원에-혼다까지-흔들-현대차는.html",
+    "excerpt": "7/22 수 경제쇼 사업보고서 폭스바겐 10만명 감원에 혼다까지 흔들... 현대차는? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 폭스바겐이 실적 부진으로 1만 명 감원 계획을 발표했으나 노조와 주정부 반발로 무산되며 구조조정 난항을 드러냈다. 2. 혼다는 전기차 전환 지연으로…",
+    "model": "large-v3-turbo.",
     "duration": null,
     "published": null
   },
