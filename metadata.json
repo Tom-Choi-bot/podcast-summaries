@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-27",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/27(월) 엔화 약세 | 중국AI 규제",
+    "md_rel": "summaries/2026/07/27/hand-economy/손경제-7-27-월-엔화-약세-중국AI-규제.md",
+    "html_rel": "summaries/2026/07/27/hand-economy/손경제-7-27-월-엔화-약세-중국AI-규제.html",
+    "excerpt": "손경제 7/27 월 엔화 약세 중국AI 규제 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 원화는 6% 상승하며 강세를 보인 반면 엔화는 40년 만에 최저 수준으로 약세를 보여 원화 엔화 디커플링이 심화됨 2. 미국 빅테크 간 중국 AI 오픈 모델 규제…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-25",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
