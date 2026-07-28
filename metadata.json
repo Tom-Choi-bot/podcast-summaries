@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-28",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/27(월) - [글로벌 인사이트] 코스피, 바닥 탈출? 다시 고점으로 갈까?",
+    "md_rel": "summaries/2026/07/28/kbs-economy-show/7-27-월-글로벌-인사이트-코스피-바닥-탈출-다시-고점으로-갈까.md",
+    "html_rel": "summaries/2026/07/28/kbs-economy-show/7-27-월-글로벌-인사이트-코스피-바닥-탈출-다시-고점으로-갈까.html",
+    "excerpt": "7/27 월 글로벌 인사이트 코스피, 바닥 탈출? 다시 고점으로 갈까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 중국 반도체 기업 창신메모리 CXMT 상장 첫날 470% 폭등으로 시장에 충격을 주었으며, 이는 중국의 반도체 자립화 노력과 글로벌 수급 재편 가능성을 시사함 2…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-27",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "한미 빅테크, GPU 200만장·9500억 달러 AI 협력 추진 | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/27/samprotv/한미-빅테크-GPU-200만장-9500억-달러-AI-협력-추진-정프로-이주호-류종은-박병창-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/27/samprotv/한미-빅테크-GPU-200만장-9500억-달러-AI-협력-추진-정프로-이주호-류종은-박병창-오늘아침-라이브.html",
+    "excerpt": "한미 빅테크, GPU 200만장·9500억 달러 AI 협력 추진 정프로, 이주호, 류종은, 박병창 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 한미 간 반도체 및 AI 협력이 확대되며, 삼성 브로드컴 파운드리 계약과 SK하이닉스 엔비디아 메모리 공급 계약 등 구…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-27",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
