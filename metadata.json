@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-29",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/28(화) - [핫이슈, 더 깊게] 부동산 대토론회 후기, 집값 잡을 대책 나올까?",
+    "md_rel": "summaries/2026/07/29/kbs-economy-show/7-28-화-핫이슈-더-깊게-부동산-대토론회-후기-집값-잡을-대책-나올까.md",
+    "html_rel": "summaries/2026/07/29/kbs-economy-show/7-28-화-핫이슈-더-깊게-부동산-대토론회-후기-집값-잡을-대책-나올까.html",
+    "excerpt": "7/28 화 핫이슈, 더 깊게 부동산 대토론회 후기, 집값 잡을 대책 나올까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 코스피 10.8% 폭락 외인 매도 4.7조원 vs 개인 매수 3.8조원, 개인이 시장을 지켰음. 2. 중국이 DUV 장비를 공급할 경우 반도체 공급 과잉 …",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-28",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "중국 CXMT 상장 첫날 470% 폭등…\"삼전닉스 하락 원인?\" | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/28/samprotv/중국-CXMT-상장-첫날-470-폭등-삼전닉스-하락-원인-정프로-이주호-류종은-박병창-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/28/samprotv/중국-CXMT-상장-첫날-470-폭등-삼전닉스-하락-원인-정프로-이주호-류종은-박병창-오늘아침-라이브.html",
+    "excerpt": "중국 CXMT 상장 첫날 470% 폭등…\"삼전닉스 하락 원인?\" 정프로, 이주호, 류종은, 박병창 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 중국의 CXMT가 상장 첫날에 470% 폭등하며 시장의 주목을 받았습니다. 2. 이에 따라 삼전닉스 주가 하락 원인이 …",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-28",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
@@ -8,6 +32,18 @@
     "html_rel": "summaries/2026/07/28/kbs-economy-show/7-27-월-글로벌-인사이트-코스피-바닥-탈출-다시-고점으로-갈까.html",
     "excerpt": "7/27 월 글로벌 인사이트 코스피, 바닥 탈출? 다시 고점으로 갈까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 중국 반도체 기업 창신메모리 CXMT 상장 첫날 470% 폭등으로 시장에 충격을 주었으며, 이는 중국의 반도체 자립화 노력과 글로벌 수급 재편 가능성을 시사함 2…",
     "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-28",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/28(화) 창신메모리 | 중 DUV 양산 | 엔비디아-네이버 투자 | 부동산 토론회",
+    "md_rel": "summaries/2026/07/28/hand-economy/손경제-7-28-화-창신메모리-DUV-양산-엔비디아-네이버-투자-부동산-토론회.md",
+    "html_rel": "summaries/2026/07/28/hand-economy/손경제-7-28-화-창신메모리-DUV-양산-엔비디아-네이버-투자-부동산-토론회.html",
+    "excerpt": "손경제 7/28 화 창신메모리 중 DUV 양산 엔비디아 네이버 투자 부동산 토론회 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 중국 메모리 반도체 기업 창신메모리가 상장 첫날 주가가 400% 이상 폭등하며 중국 본토 시가총액 1위 기업으로 등극. 2.…",
+    "model": "faster-whisper large-v3 기본 설정.",
     "duration": null,
     "published": null
   },
@@ -151,6 +187,18 @@
     "md_rel": "summaries/2026/07/23/samprotv/미-호르무즈에-한국-군함-보내-달라-한국-요청-없었다-오픈AI-최신-모델이-멋대로-외부-해킹-중국-AI로-막았다-오늘아침-라이브.md",
     "html_rel": "summaries/2026/07/23/samprotv/미-호르무즈에-한국-군함-보내-달라-한국-요청-없었다-오픈AI-최신-모델이-멋대로-외부-해킹-중국-AI로-막았다-오늘아침-라이브.html",
     "excerpt": "미 \"호르무즈에 한국 군함 보내 달라\"...한국 \"요청 없었다\" 오픈AI 최신 모델이 멋대로 외부 해킹...중국 AI로 막았다 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo 3줄 브리핑 1. 미국 트럼프 행정부가 한국에 호르무주에 군함 파견을 요청했다는 주장에 대해 청와대가 \"요청 …",
+    "model": "large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-23",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260723목 [트렌드연구소] w 권정윤 - \"도파민 중독의 시대\"...요즘 '도파민 활용법'은?",
+    "md_rel": "summaries/2026/07/23/park-money-lab/2-260723목-트렌드연구소-w-권정윤-도파민-중독의-시대-요즘-도파민-활용법-은.md",
+    "html_rel": "summaries/2026/07/23/park-money-lab/2-260723목-트렌드연구소-w-권정윤-도파민-중독의-시대-요즘-도파민-활용법-은.html",
+    "excerpt": "2. 260723목 트렌드연구소 w 권정윤 \"도파민 중독의 시대\"...요즘 '도파민 활용법'은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo 3줄 브리핑 1. 현대인들은 실제 보상 없이 도파민을 유발하는 가짜 앱·서비스 가짜 배달, 가짜 쇼핑몰, 시공간 도약기기 리뷰 등 에 중독되고 있다. 2. …",
     "model": "large-v3-turbo",
     "duration": null,
     "published": null
