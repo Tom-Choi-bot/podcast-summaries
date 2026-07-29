@@ -85,6 +85,18 @@
   },
   {
     "date": "2026-07-25",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "1. 260725토 - [문화연구소] w 이정우 에디터",
+    "md_rel": "summaries/2026/07/25/park-money-lab/1-260725토-문화연구소-w-이정우-에디터.md",
+    "html_rel": "summaries/2026/07/25/park-money-lab/1-260725토-문화연구소-w-이정우-에디터.html",
+    "excerpt": "1. 260725토 문화연구소 w 이정우 에디터 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo 3줄 브리핑 1. 프리다 칼로의 삶은 신체적 고통과 정서적 turmoil로 가득 차 있었으나, 이를 예술로 승화시켰다. 2. 디에고 리베라와의 tumultuous한 관계는 그녀의 예술과 개인사에 큰 영향을…",
+    "model": "large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-25",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
     "title": "7/24(금) - [윤지호의 Pick!] '키미 k3' 부터 'AI' 과잉투자 논란까지... 반도체 버틸수있을까?",
