@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-07-30",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "5천 코스피도 위험하다? ‘금리'를 주목해야 하는 이유",
+    "md_rel": "summaries/2026/07/30/kbs-economy-show/7-29-수-핫이슈-더-깊게-5천-코스피도-위험하다-금리-를-주목해야-하는-이유.md",
+    "html_rel": "summaries/2026/07/30/kbs-economy-show/7-29-수-핫이슈-더-깊게-5천-코스피도-위험하다-금리-를-주목해야-하는-이유.html",
+    "excerpt": "5천 코스피도 위험하다? ‘금리'를 주목해야 하는 이유 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 미국 국채금리 급등과 연준의 긴축 기조로 국내 증시가 변동성 확대를 보였으나, 기관 매수로 낙폭이 parcialmente 축소되었습니다. 2. SK하이닉스의 호실적에도 불구하고 …",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-29",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
@@ -8,6 +20,18 @@
     "html_rel": "summaries/2026/07/29/kbs-economy-show/7-28-화-핫이슈-더-깊게-부동산-대토론회-후기-집값-잡을-대책-나올까.html",
     "excerpt": "7/28 화 핫이슈, 더 깊게 부동산 대토론회 후기, 집값 잡을 대책 나올까? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 코스피 10.8% 폭락 외인 매도 4.7조원 vs 개인 매수 3.8조원, 개인이 시장을 지켰음. 2. 중국이 DUV 장비를 공급할 경우 반도체 공급 과잉 …",
     "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-29",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/29(수) SK하이닉스 실적 | 뉴욕 반값마트 | 한국 초고령사회 | 애플 시총 1위",
+    "md_rel": "summaries/2026/07/29/hand-economy/손경제-7-29-수-SK하이닉스-실적-뉴욕-반값마트-한국-초고령사회-애플-시총-1위.md",
+    "html_rel": "summaries/2026/07/29/hand-economy/손경제-7-29-수-SK하이닉스-실적-뉴욕-반값마트-한국-초고령사회-애플-시총-1위.html",
+    "excerpt": "손경제 7/29 수 SK하이닉스 실적 뉴욕 반값마트 한국 초고령사회 애플 시총 1위 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. SK하이닉스 2분기 실적이 시장 예상치를 하회하며 매출과 영업이익이 각각 5%씩 부족함 2. 뉴욕시가 시중가 대비 30% …",
+    "model": "faster-whisper large-v3 기본 설정.",
     "duration": null,
     "published": null
   },
@@ -92,6 +116,18 @@
     "html_rel": "summaries/2026/07/27/hand-economy/손경제-7-27-월-엔화-약세-중국AI-규제.html",
     "excerpt": "손경제 7/27 월 엔화 약세 중국AI 규제 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 원화는 6% 상승하며 강세를 보인 반면 엔화는 40년 만에 최저 수준으로 약세를 보여 원화 엔화 디커플링이 심화됨 2. 미국 빅테크 간 중국 AI 오픈 모델 규제…",
     "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-25",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260725토 - [영화연구소] w 박창영 기자",
+    "md_rel": "summaries/2026/07/25/park-money-lab/2-260725토-영화연구소-w-박창영-기자.md",
+    "html_rel": "summaries/2026/07/25/park-money-lab/2-260725토-영화연구소-w-박창영-기자.html",
+    "excerpt": "2. 260725토 영화연구소 w 박창영 기자 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 퓨리오사 매드맥스 사가를 통해 자기 연민과 분노가 생존을 위협하는 dystopia 세계를 살펴보며, 현대 사회의 폭염, 에너지 위기, AI 시대와의 유사점을 탐구합니다. 2. 영화 속 가…",
+    "model": "large-v3-turbo.",
     "duration": null,
     "published": null
   },
