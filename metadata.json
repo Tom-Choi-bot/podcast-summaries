@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-31",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "7/30(목) - [핫이슈, 더 깊게] 코스피, 패닉셀 이어진 이유? FOMC 후폭풍인가?",
+    "md_rel": "summaries/2026/07/31/kbs-economy-show/7-30-목-핫이슈-더-깊게-코스피-패닉셀-이어진-이유-FOMC-후폭풍인가.md",
+    "html_rel": "summaries/2026/07/31/kbs-economy-show/7-30-목-핫이슈-더-깊게-코스피-패닉셀-이어진-이유-FOMC-후폭풍인가.html",
+    "excerpt": "7/30 목 핫이슈, 더 깊게 코스피, 패닉셀 이어진 이유? FOMC 후폭풍인가? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 미국 연준의 금리 동결에도 불구하고 매파적인 신호로 인해 장기채 금리가 상승하고 달러가 강세를 보이며 초기 패닉 매도가 발생했으나, 연준 의장의 발언으…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-30",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "이틀 연속 서킷브레이커…단일종목 레버리지 투자 제한 추진 | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
+    "md_rel": "summaries/2026/07/30/samprotv/이틀-연속-서킷브레이커-단일종목-레버리지-투자-제한-추진-정프로-이주호-류종은-박병창-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/07/30/samprotv/이틀-연속-서킷브레이커-단일종목-레버리지-투자-제한-추진-정프로-이주호-류종은-박병창-오늘아침-라이브.html",
+    "excerpt": "이틀 연속 서킷브레이커…단일종목 레버리지 투자 제한 추진 정프로, 이주호, 류종은, 박병창 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: unknown 이틀 연속 코스피 200 및 코스닥 150 구성 종목에 대한 서킷브레이커가 발동되었으며, 이는 단일 종목에 대한 레버리지 ETF 및 ETN 투자 제한을 추진하…",
+    "model": "unknown",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-30",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
@@ -8,6 +32,18 @@
     "html_rel": "summaries/2026/07/30/kbs-economy-show/7-29-수-핫이슈-더-깊게-5천-코스피도-위험하다-금리-를-주목해야-하는-이유.html",
     "excerpt": "5천 코스피도 위험하다? ‘금리'를 주목해야 하는 이유 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 미국 국채금리 급등과 연준의 긴축 기조로 국내 증시가 변동성 확대를 보였으나, 기관 매수로 낙폭이 parcialmente 축소되었습니다. 2. SK하이닉스의 호실적에도 불구하고 …",
     "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-30",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/30(목) 서킷브레이커 | 미국 기준금리 | 로봇 수입 규제",
+    "md_rel": "summaries/2026/07/30/hand-economy/손경제-7-30-목-서킷브레이커-미국-기준금리-로봇-수입-규제.md",
+    "html_rel": "summaries/2026/07/30/hand-economy/손경제-7-30-목-서킷브레이커-미국-기준금리-로봇-수입-규제.html",
+    "excerpt": "손경제 7/30 목 서킷브레이커 미국 기준금리 로봇 수입 규제 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 한국 증시가 이틀 연속 서킷브레이커가 발동되며 IMF 외환위기 이후 최대 하락폭을 기록했습니다. 2. 미국 연준은 기준금리를 동결했으나 3명이 …",
+    "model": "faster-whisper large-v3 기본 설정.",
     "duration": null,
     "published": null
   },
@@ -343,6 +379,18 @@
     "md_rel": "summaries/2026/07/22/samprotv/삼전노조-광주팹-반발-이-대통령-쟁의대상-너무-확장-원유-우회로-홍해마저-봉쇄-한일-에너지-쇼크-우려-오늘아침-라이브.md",
     "html_rel": "summaries/2026/07/22/samprotv/삼전노조-광주팹-반발-이-대통령-쟁의대상-너무-확장-원유-우회로-홍해마저-봉쇄-한일-에너지-쇼크-우려-오늘아침-라이브.html",
     "excerpt": "삼전노조 광주팹 반발…이 대통령 \"쟁의대상 너무 확장\" '원유 우회로' 홍해마저 봉쇄…한일 '에너지 쇼크' 우려 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 삼성전자 노조가 광주 반도체 공장 투자에 반발하며 대통령의 노동 쟁의 범위 확대에 대한 우려를 표명했습니…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-22",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260722수 [증시연구소] w 엄경아- 조선주는 숨 고르기 중...전망은?",
+    "md_rel": "summaries/2026/07/22/park-money-lab/2-260722수-증시연구소-w-엄경아-조선주는-숨-고르기-중-전망은.md",
+    "html_rel": "summaries/2026/07/22/park-money-lab/2-260722수-증시연구소-w-엄경아-조선주는-숨-고르기-중-전망은.html",
+    "excerpt": "2. 260722수 증시연구소 w 엄경아 조선주는 숨 고르기 중...전망은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 조선업은 수주 증가, 저평가된 밸류에이션, 트럼프의 조선 협력 발언 등으로 슈퍼사이클 진입 가능성이 부각되며 투자 매력이 높아지고 있음. 2. HD현대 조선…",
     "model": "large-v3-turbo.",
     "duration": null,
     "published": null
