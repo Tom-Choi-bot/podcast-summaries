@@ -36,6 +36,18 @@
     "published": null
   },
   {
+    "date": "2026-07-31",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[협찬인가] 오징어의 국적",
+    "md_rel": "summaries/2026/07/31/hand-economy/협찬인가-오징어의-국적.md",
+    "html_rel": "summaries/2026/07/31/hand-economy/협찬인가-오징어의-국적.html",
+    "excerpt": "협찬인가 오징어의 국적 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 국내산 오징어는 유통 및 가공 과정에서 품질과 안전성이 높아 소비자 신뢰도를 높일 수 있지만, 유통량이 적어 가격 변동이 크다. 2. 수입산 오징어는 유통 과정이 길어 품질 저하 우려…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-30",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
@@ -91,6 +103,18 @@
     "md_rel": "summaries/2026/07/29/park-money-lab/2-260729수-부동산연구소-w-김인만-어려워지는-내집-마련-향후-부동산-정책은.md",
     "html_rel": "summaries/2026/07/29/park-money-lab/2-260729수-부동산연구소-w-김인만-어려워지는-내집-마련-향후-부동산-정책은.html",
     "excerpt": "2. 260729수 부동산연구소 w 김인만 어려워지는 '내집 마련'...향후 부동산 정책은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 서울 집값 0.71%, 전세가 0.81% 상승하며 전세가가 매매가를 추월함 2. 정부 se제 개편안 초고가 주택 기준 공시가 30억원 과 시…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-29",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "1. 260729수 [목돈연구소 풀버전] - SK하이닉스 2분기 실적 발표...\"역대 최대\" - 日 구마모토 7.1 강진…한·중서도 진동 느껴 - 구마모토 지진에 TSMC 공장도 피해?",
+    "md_rel": "summaries/2026/07/29/park-money-lab/1-260729수-목돈연구소-풀버전-SK하이닉스-2분기-실적-발표-역대-최대-구마모토-7-1-강진-한-중서도-진동-느껴-구마모토-지진에-TSMC-공장도-피해.md",
+    "html_rel": "summaries/2026/07/29/park-money-lab/1-260729수-목돈연구소-풀버전-SK하이닉스-2분기-실적-발표-역대-최대-구마모토-7-1-강진-한-중서도-진동-느껴-구마모토-지진에-TSMC-공장도-피해.html",
+    "excerpt": "1. 260729수 목돈연구소 풀버전 SK하이닉스 2분기 실적 발표...\"역대 최대\" 日 구마모토 7.1 강진…한·중서도 진동 느껴 구마모토 지진에 TSMC 공장도 피해? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. SK하이닉스 2분기 매출 79조 원, 영업이익 60조 원 기록…",
     "model": "large-v3-turbo.",
     "duration": null,
     "published": null
