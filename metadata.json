@@ -60,6 +60,18 @@
     "published": null
   },
   {
+    "date": "2026-07-31",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 7/31(금) 반도체 주식 | 비상장 스타트업 | 배터리 흑자 | 일본 소비세",
+    "md_rel": "summaries/2026/07/31/hand-economy/손경제-7-31-금-반도체-주식-비상장-스타트업-배터리-흑자-일본-소비세.md",
+    "html_rel": "summaries/2026/07/31/hand-economy/손경제-7-31-금-반도체-주식-비상장-스타트업-배터리-흑자-일본-소비세.html",
+    "excerpt": "손경제 7/31 금 반도체 주식 비상장 스타트업 배터리 흑자 일본 소비세 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 미국 물가 지수 PCE 예상보다 낮게 나타나고 마이크로소프트 호실적으로 반도체주가 급등하며 코스피 야간선물 상한가 기록. 2. 비상장…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-07-30",
     "show_slug": "samprotv",
     "show_name": "삼프로TV",
