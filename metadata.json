@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-08-03",
+    "show_slug": "hand-economy",
+    "show_name": "손에 잡히는 경제",
+    "title": "[손경제] 8/3(월) 미-일 환율 공조 | 긴급조치권 | 중국 자동차부품",
+    "md_rel": "summaries/2026/08/03/hand-economy/손경제-8-3-월-미-일-환율-공조-긴급조치권-중국-자동차부품.md",
+    "html_rel": "summaries/2026/08/03/hand-economy/손경제-8-3-월-미-일-환율-공조-긴급조치권-중국-자동차부품.html",
+    "excerpt": "손경제 8/3 월 미 일 환율 공조 긴급조치권 중국 자동차부품 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리핑 1. 미국과 일본이 엔화 가치 방어를 위해 협동 개입에 나서면서 달러 엔 환율이 157엔 수준으로 하락 엔화 가치 상승 2. 금융당국이 단일 종목 레…",
+    "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-08-01",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "3. 260801토 [목돈연구소 풀버전] 문화연구소 / 영화연구소",
+    "md_rel": "summaries/2026/08/01/park-money-lab/3-260801토-목돈연구소-풀버전-문화연구소-영화연구소.md",
+    "html_rel": "summaries/2026/08/01/park-money-lab/3-260801토-목돈연구소-풀버전-문화연구소-영화연구소.html",
+    "excerpt": "3. 260801토 목돈연구소 풀버전 문화연구소 / 영화연구소 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 문화연구소에서는 일본 호쿠사이의 '가나가와 앞바다의 파도', 프랑스 모네의 에트르타 해변, 독일 프리드리히의 얼음바다 등 세 가지 바다 그림을 통해 미술사와 경제적 가치를…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-08-01",
     "show_slug": "kbs-economy-show",
     "show_name": "KBS 경제쇼",
