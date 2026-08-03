@@ -315,6 +315,18 @@
     "date": "2026-07-25",
     "show_slug": "park-money-lab",
     "show_name": "박연미의 목돈연구소",
+    "title": "3. 260725토 [목돈연구소 풀버전] 문화연구소 / 영화연구소",
+    "md_rel": "summaries/2026/07/25/park-money-lab/3-260725토-목돈연구소-풀버전-문화연구소-영화연구소.md",
+    "html_rel": "summaries/2026/07/25/park-money-lab/3-260725토-목돈연구소-풀버전-문화연구소-영화연구소.html",
+    "excerpt": "3. 260725토 목돈연구소 풀버전 문화연구소 / 영화연구소 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo 3줄 브리핑 1. 영국에서 사망세 상속세 강화 논의가 일어나며, 고령화 사회의 재정 충당 방안으로서의 가능성과 논란이 논의되었습니다. 2. 문화연구소에서는 멕시코 화가 프리다 칼로의 삶과 예…",
+    "model": "large-v3-turbo",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-07-25",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
     "title": "2. 260725토 - [영화연구소] w 박창영 기자",
     "md_rel": "summaries/2026/07/25/park-money-lab/2-260725토-영화연구소-w-박창영-기자.md",
     "html_rel": "summaries/2026/07/25/park-money-lab/2-260725토-영화연구소-w-박창영-기자.html",
