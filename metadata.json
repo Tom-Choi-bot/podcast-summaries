@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-08-04",
+    "show_slug": "kbs-economy-show",
+    "show_name": "KBS 경제쇼",
+    "title": "8/3(월) - [핫이슈, 더 깊게] ‘치솟는 수출', ‘늘어나지 않는 고용'... K자형 한국경제 해법은?",
+    "md_rel": "summaries/2026/08/04/kbs-economy-show/8-3-월-핫이슈-더-깊게-치솟는-수출-늘어나지-않는-고용-K자형-한국경제-해법은.md",
+    "html_rel": "summaries/2026/08/04/kbs-economy-show/8-3-월-핫이슈-더-깊게-치솟는-수출-늘어나지-않는-고용-K자형-한국경제-해법은.html",
+    "excerpt": "8/3 월 핫이슈, 더 깊게 ‘치솟는 수출', ‘늘어나지 않는 고용'... K자형 한국경제 해법은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 반도체 호황으로 수출은 급증했지만 내수와 고용은 부진해 K자형 양극화가 심화되고 있다. 2. 건설업 부진과 청년 실업 증가로 취약계층…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
     "date": "2026-08-03",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
@@ -31,6 +43,18 @@
     "md_rel": "summaries/2026/08/01/park-money-lab/3-260801토-목돈연구소-풀버전-문화연구소-영화연구소.md",
     "html_rel": "summaries/2026/08/01/park-money-lab/3-260801토-목돈연구소-풀버전-문화연구소-영화연구소.html",
     "excerpt": "3. 260801토 목돈연구소 풀버전 문화연구소 / 영화연구소 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 문화연구소에서는 일본 호쿠사이의 '가나가와 앞바다의 파도', 프랑스 모네의 에트르타 해변, 독일 프리드리히의 얼음바다 등 세 가지 바다 그림을 통해 미술사와 경제적 가치를…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-08-01",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260801토 - [영화연구소] w 박창영 기자",
+    "md_rel": "summaries/2026/08/01/park-money-lab/2-260801토-영화연구소-w-박창영-기자.md",
+    "html_rel": "summaries/2026/08/01/park-money-lab/2-260801토-영화연구소-w-박창영-기자.html",
+    "excerpt": "2. 260801토 영화연구소 w 박창영 기자 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리핑 1. 영화 '왕과 사는 남자'는 조선 6대 임금 단종의 유배 이야기를 통해 지방 소멸 문제와 연결하여 논의한다. 2. 영화는 1,690만 명 관객을 동원하며 박스오피스 2위 관객수 와 매출액 …",
     "model": "large-v3-turbo.",
     "duration": null,
     "published": null
