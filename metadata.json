@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-08-07",
+    "show_slug": "park-money-lab",
+    "show_name": "박연미의 목돈연구소",
+    "title": "2. 260807금 [�돈터뷰] w 홍춘욱 - 하반기 부동산-코스피 전망은?",
+    "md_rel": "summaries/2026/08/07/park-money-lab/2-260807금-�돈터뷰-w-�홍춘욱-하반기-부동산-코스피-전망은.md",
+    "html_rel": "summaries/2026/08/07/park-money-lab/2-260807금-�돈터뷰-w-�홍춘욱-하반기-부동산-코스피-전망은.html",
+    "excerpt": "2. 260807금 �돈터뷰 w 홍춘욱 하반기 부동산 코스피 전망은? 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리�핑 1. 세제 개편안 발표로 인해 부동산 시장에 혼란이 가중되고 있으며, 특히 비거주 1주택자와 고령 1주택자들이 세금 부담으로 큰 피해를 보고 있음 2. 정부 정책의 초…",
+    "model": "large-v3-turbo.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-08-07",
     "show_slug": "hand-economy",
     "show_name": "손에 잡히는 경제",
     "title": "[손경제] 8/7(금) 단일종목 레버리지 | 중국 세무조사 | 국유자산 관리",
@@ -8,6 +20,18 @@
     "html_rel": "summaries/2026/08/07/hand-economy/손경제-8-7-금-단일종목-레버리지-중국-세무조사-국유자산-관리.html",
     "excerpt": "손경제 8/7 금 단일종목 레버리지 중국 세무조사 국유자산 관리 전체 오디오 전사 기반 요약. 전사 모델: faster whisper large v3 기본 설정. 3줄 브리�핑 1. 단일종목 레버리지 ETF 규제 강화로 거래대금이 10분의 1로 급감하며 투자자들이 지수형 레버리지 ETF로 이동 2. 중국 정부가 부동산 시…",
     "model": "faster-whisper large-v3 기본 설정.",
+    "duration": null,
+    "published": null
+  },
+  {
+    "date": "2026-08-06",
+    "show_slug": "samprotv",
+    "show_name": "삼프로TV",
+    "title": "삼성 'HBM의 8배 성능'…차세대 3D 메모리 공개 | 올리브영, 세포라 미국 580개 매장에 K-뷰티 � 깐다 | [오늘아침 라이브]",
+    "md_rel": "summaries/2026/08/06/samprotv/삼성-HBM의-8배-성능-차세대-3D-메모리-공개-올리브영-세포라-미국-580개-매장에-K-뷰티-�깐다-오늘아침-라이브.md",
+    "html_rel": "summaries/2026/08/06/samprotv/삼성-HBM의-8배-성능-차세대-3D-메모리-공개-올리브영-세포라-미국-580개-매장에-K-뷰티-�깐다-오늘아침-라이브.html",
+    "excerpt": "삼성 'HBM의 8배 성능'…차세대 3D 메모리 공개 올리브영, 세포라 미국 580개 매장에 K 뷰티 � 깐다 오늘아침 라이브 전체 오디오 전사 기반 요약. 전사 모델: large v3 turbo. 3줄 브리�핑 1. 삼성전자가 차세대 3D 메모리 기술인 GHBM을 공개하며 HBM5 대비 성능 8배, 전력 효율 3배 향상…",
+    "model": "large-v3-turbo.",
     "duration": null,
     "published": null
   },
